@@ -1,0 +1,153 @@
+{% extends 'base.html' %}
+
+{% block title %}Contact Support - CredAI{% endblock %}
+
+{% block content %}
+<div class="container" style="max-width: 900px;">
+    <div class="text-center" style="margin-bottom: 40px;">
+        <h1 class="section-title">Get in Touch</h1>
+        <p class="text-muted">Have technical questions or queries about the machine learning model deployment? Let us know.</p>
+    </div>
+
+    <div class="split-grid grid">
+        <div class="card glass-card" style="grid-column: span 2; padding: 32px;">
+            <h3 class="form-section-title"><i class="fa-solid fa-paper-plane"></i> Send a Message</h3>
+            
+            <form id="contact-form" novalidate>
+                <div class="form-group">
+                    <label for="c-name" class="form-label">Full Name <span class="required">*</span></label>
+                    <input type="text" id="c-name" class="form-input" placeholder="Your name" required>
+                    <span class="error-message" id="error-c-name"></span>
+                </div>
+
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="c-email" class="form-label">Email Address <span class="required">*</span></label>
+                        <input type="email" id="c-email" class="form-input" placeholder="name@company.com" required>
+                        <span class="error-message" id="error-c-email"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="c-subject" class="form-label">Subject <span class="required">*</span></label>
+                        <input type="text" id="c-subject" class="form-input" placeholder="e.g. API access query" required>
+                        <span class="error-message" id="error-c-subject"></span>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="c-message" class="form-label">Message <span class="required">*</span></label>
+                    <textarea id="c-message" class="form-input" rows="5" placeholder="Write your message details..." style="resize: vertical;" required></textarea>
+                    <span class="error-message" id="error-c-message"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary" style="margin-top: 10px;">
+                    <i class="fa-solid fa-paper-plane"></i> Send Message
+                </button>
+            </form>
+        </div>
+
+        <div class="card glass-card flex-between" style="flex-direction: column; text-align: center; gap: 30px; padding: 32px 24px;">
+            <div>
+                <h4 class="detail-section-title" style="margin-bottom: 20px;">Corporate Info</h4>
+                <p class="text-muted" style="font-size: 0.9rem; margin-bottom: 16px;"><i class="fa-solid fa-location-dot" style="color: var(--secondary); margin-right: 8px;"></i> SRGEC, Gudlavalleru</p>
+                <p class="text-muted" style="font-size: 0.9rem;"><i class="fa-solid fa-envelope" style="color: var(--primary); margin-right: 8px;"></i> saikumarchennamsetti1@gmail.com</p>
+            </div>
+
+            <div style="border-top: 1px solid var(--border-glass); padding-top: 20px; width: 100%;">
+                <h4 class="detail-section-title" style="margin-bottom: 16px;">Social Links</h4>
+                <div style="display: flex; justify-content: center; gap: 20px;">
+                    <a href="https://github.com/SaikumarChennamsetti" target="_blank" aria-label="GitHub Repository" class="social-icon-btn"><i class="fa-brands fa-github" style="font-size: 1.5rem;"></i></a>
+                    <a href="https://www.linkedin.com/in/saikumar-chennamsetti-1b9943321/" target="_blank" aria-label="LinkedIn" class="social-icon-btn"><i class="fa-brands fa-linkedin" style="font-size: 1.5rem;"></i></a>
+                    <a href="https://instagram.com/sk_naidu_" target="_blank" aria-label="Instagram" class="social-icon-btn"><i class="fa-brands fa-instagram" style="font-size: 1.5rem;"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const contactForm = document.getElementById('contact-form');
+    
+    contactForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        
+        let isValid = true;
+        const nameEl = document.getElementById('c-name');
+        const emailEl = document.getElementById('c-email');
+        const subjectEl = document.getElementById('c-subject');
+        const messageEl = document.getElementById('c-message');
+
+        // Simple validation check
+        [nameEl, emailEl, subjectEl, messageEl].forEach(input => {
+            input.classList.remove('input-error');
+            const err = document.getElementById(`error-${input.id}`);
+            if (err) err.textContent = "";
+
+            if (input.value.trim() === "") {
+                input.classList.add('input-error');
+                if (err) err.textContent = "This field is required.";
+                isValid = false;
+            }
+        });
+
+        // Email regex check
+        if (isValid) {
+            const emailVal = emailEl.value.trim();
+            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            if (!emailRegex.test(emailVal)) {
+                emailEl.classList.add('input-error');
+                document.getElementById('error-c-email').textContent = "Please provide a valid email address.";
+                isValid = false;
+            }
+        }
+
+        if (isValid) {
+            // Show loading state
+            const submitBtn = contactForm.querySelector('button[type="submit"]');
+            const originalBtnContent = submitBtn.innerHTML;
+            
+            // Disable all fields to prevent double submission
+            const fields = [nameEl, emailEl, subjectEl, messageEl, submitBtn];
+            fields.forEach(field => field.setAttribute('disabled', 'true'));
+            submitBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Submitting...';
+
+            fetch('/api/contact', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    full_name: nameEl.value.trim(),
+                    email: emailEl.value.trim(),
+                    subject: subjectEl.value.trim(),
+                    message: messageEl.value.trim()
+                })
+            })
+            .then(response => response.json().then(data => ({ status: response.status, body: data })))
+            .then(({ status, body }) => {
+                if (status >= 200 && status < 300 && body.success) {
+                    showNotification("Your message has been submitted successfully.", "success");
+                    contactForm.reset();
+                } else {
+                    showNotification(body.message || "Failed to submit contact message. Please try again.", "error");
+                }
+            })
+            .catch(error => {
+                console.error("Submission error:", error);
+                showNotification("A network or server error occurred. Please try again later.", "error");
+            })
+            .finally(() => {
+                // Re-enable fields
+                fields.forEach(field => field.removeAttribute('disabled'));
+                submitBtn.innerHTML = originalBtnContent;
+            });
+        } else {
+            showNotification("Please resolve errors in the contact form.", "error");
+        }
+    });
+});
+</script>
+{% endblock %}

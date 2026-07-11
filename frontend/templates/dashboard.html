@@ -1,0 +1,133 @@
+{% extends 'base.html' %}
+
+{% block title %}Analytics Dashboard - CredAI{% endblock %}
+
+{% block extra_head %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="dashboard-header flex-between" style="margin-bottom: 40px;">
+        <div>
+            <h1 class="section-title" style="text-align: left; margin-bottom: 8px;">Analytics Dashboard</h1>
+            <p class="text-muted">Live model inference logs, performance trends, and risk distributions.</p>
+        </div>
+        <button class="btn btn-secondary" id="btn-refresh-dashboard">
+            <i class="fa-solid fa-arrows-rotate"></i> Refresh Data
+        </button>
+    </div>
+
+    <div class="stats-grid grid" style="margin-bottom: 40px;">
+        <div class="card stat-card">
+            <div class="stat-icon flex-center color-primary">
+                <i class="fa-solid fa-calculator"></i>
+            </div>
+            <div class="stat-content">
+                <span class="stat-label">Total Predictions</span>
+                <h2 class="stat-value" id="stat-total">0</h2>
+            </div>
+        </div>
+
+        <div class="card stat-card">
+            <div class="stat-icon flex-center color-success">
+                <i class="fa-solid fa-circle-check"></i>
+            </div>
+            <div class="stat-content">
+                <span class="stat-label">Approved Applications</span>
+                <h2 class="stat-value" id="stat-approved">0</h2>
+            </div>
+        </div>
+
+        <div class="card stat-card">
+            <div class="stat-icon flex-center color-danger">
+                <i class="fa-solid fa-circle-xmark"></i>
+            </div>
+            <div class="stat-content">
+                <span class="stat-label">Rejected Applications</span>
+                <h2 class="stat-value" id="stat-rejected">0</h2>
+            </div>
+        </div>
+
+        <div class="card stat-card">
+            <div class="stat-icon flex-center color-warning">
+                <i class="fa-solid fa-percent"></i>
+            </div>
+            <div class="stat-content">
+                <span class="stat-label">Approval Rate</span>
+                <h2 class="stat-value" id="stat-approval-rate">0%</h2>
+            </div>
+        </div>
+
+        <div class="card stat-card">
+            <div class="stat-icon flex-center" style="color: var(--accent);">
+                <i class="fa-solid fa-shield-halved"></i>
+            </div>
+            <div class="stat-content">
+                <span class="stat-label">Avg Confidence Score</span>
+                <h2 class="stat-value" id="stat-avg-confidence">0%</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="charts-grid grid" style="margin-bottom: 40px;">
+        <div class="card chart-panel">
+            <h3 class="chart-title">Approval vs Rejection</h3>
+            <div class="chart-container">
+                <canvas id="chart-approvals"></canvas>
+            </div>
+        </div>
+
+        <div class="card chart-panel">
+            <h3 class="chart-title">Risk Level Distribution</h3>
+            <div class="chart-container">
+                <canvas id="chart-risk"></canvas>
+            </div>
+        </div>
+
+        <div class="card chart-panel" style="grid-column: span 2;">
+            <h3 class="chart-title">Daily Prediction Volume Trend</h3>
+            <div class="chart-container">
+                <canvas id="chart-trends"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <div class="split-grid grid" style="margin-bottom: 40px;">
+        <div class="card table-panel" style="grid-column: span 2;">
+            <h3 class="panel-title" style="margin-bottom: 20px;"><i class="fa-solid fa-list"></i> Recent Activity Logs</h3>
+            <div class="table-responsive">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Applicant ID</th>
+                            <th>Prediction</th>
+                            <th>Probability</th>
+                            <th>Confidence</th>
+                            <th>Date & Time</th>
+                        </tr>
+                    </thead>
+                    <tbody id="recent-predictions-rows">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="card actions-panel">
+            <h3 class="panel-title" style="margin-bottom: 24px;"><i class="fa-solid fa-bolt"></i> Quick Actions</h3>
+            <div class="action-buttons-list">
+                <a href="/predict" class="btn btn-primary btn-block">
+                    <i class="fa-solid fa-wand-magic-sparkles"></i> New Prediction
+                </a>
+                <a href="/history" class="btn btn-secondary btn-block">
+                    <i class="fa-solid fa-clock-rotate-left"></i> View Full History
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{{ url_for('static', filename='js/charts.js') }}"></script>
+{% endblock %}

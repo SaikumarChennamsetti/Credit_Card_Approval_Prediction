@@ -1,0 +1,98 @@
+{% extends 'base.html' %}
+
+{% block title %}About CredAI - Credit Card Approval Prediction{% endblock %}
+
+{% block content %}
+<div class="container" style="max-width: 900px;">
+    <div class="text-center" style="margin-bottom: 40px;">
+        <h1 class="section-title">About the CredAI System</h1>
+        <p class="text-muted">An end-to-end overview of the objectives, timeline, machine learning pipeline, and architecture.</p>
+    </div> 
+
+    <div class="card glass-card" style="margin-bottom: 40px;">
+        <h3 class="form-section-title"><i class="fa-solid fa-circle-question"></i> Problem Statement</h3>
+        <p class="text-muted" style="margin-bottom: 20px;">
+            Manual credit card verification is slow, expensive, and susceptible to cognitive bias. Traditional automated credit check processes frequently operate as "black boxes," leaving candidates without actionable suggestions for improvement when their applications are declined.
+        </p>
+        <p class="text-muted">
+            <strong>CredAI</strong> solves this by serving transparent, explainable predictions in real-time, matching high accuracy scoring models with regulatory compliance standards.
+        </p>
+    </div>
+
+    <div class="card glass-card" style="margin-bottom: 40px;">
+        <h3 class="form-section-title"><i class="fa-solid fa-clock"></i> Development & Pipeline Timeline</h3>
+        
+        <div class="timeline-container">
+            <div class="timeline-item">
+                <div class="timeline-badge flex-center">1</div>
+                <div class="timeline-content">
+                    <h4 class="timeline-title">Data Engineering & Cleaning</h4>
+                    <p class="timeline-desc">Demographics dataset and repayment history details are loaded, cleaned of duplicate rows, and occupations are standardized. Outliers are filtered and records are mapped.</p>
+                </div>
+            </div>
+
+            <div class="timeline-item">
+                <div class="timeline-badge flex-center">2</div>
+                <div class="timeline-content">
+                    <h4 class="timeline-title">Target Variable Creation</h4>
+                    <p class="timeline-desc">Repayment timelines are aggregated. Clients with over 30 days overdue payments are classified as class 0 (Rejected), and on-time payees as class 1 (Approved).</p>
+                </div>
+            </div>
+
+            <div class="timeline-item">
+                <div class="timeline-badge flex-center">3</div>
+                <div class="timeline-content">
+                    <h4 class="timeline-title">Feature Engineering & Preprocessing</h4>
+                    <p class="timeline-desc">We derive income per family member and age bins, fit standard scalar and one-hot encoders, and save serialization pipelines to joblib files.</p>
+                </div>
+            </div>
+
+            <div class="timeline-item">
+                <div class="timeline-badge flex-center">4</div>
+                <div class="timeline-content">
+                    <h4 class="timeline-title">Model Tuning & Champion Selection</h4>
+                    <p class="timeline-desc">We train and hyper-tune 8 classifiers. Models are cross-validated and compared on precision, recall, and F1 metrics to select the best production weights.</p>
+                </div>
+            </div>
+
+            <div class="timeline-item">
+                <div class="timeline-badge flex-center">5</div>
+                <div class="timeline-content">
+                    <h4 class="timeline-title">Flask Server & API serving</h4>
+                    <p class="timeline-desc">API endpoints process JSON requests, validate bounds, execute model predictions in-memory, and audit log histories to SQLite tables.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card glass-card" style="margin-bottom: 40px;">
+        <h3 class="form-section-title"><i class="fa-solid fa-code"></i> Technology Stack Matrix</h3>
+        <div class="tech-matrix-grid">
+            <div class="text-center" style="padding: 16px;">
+                <i class="fa-brands fa-python" style="font-size: 2.5rem; color: var(--primary); margin-bottom: 12px;"></i>
+                <h4 style="margin-bottom: 4px;">Python ML</h4>
+                <p class="text-muted" style="font-size: 0.8rem;">Pandas, Scikit-learn, Joblib</p>
+            </div>
+            <div class="text-center" style="padding: 16px;">
+                <i class="fa-solid fa-server" style="font-size: 2.5rem; color: var(--secondary); margin-bottom: 12px;"></i>
+                <h4 style="margin-bottom: 4px;">Flask Backend</h4>
+                <p class="text-muted" style="font-size: 0.8rem;">SQLAlchemy, SQLite DB, CORS</p>
+            </div>
+            <div class="text-center" style="padding: 16px;">
+                <i class="fa-solid fa-desktop" style="font-size: 2.5rem; color: var(--accent); margin-bottom: 12px;"></i>
+                <h4 style="margin-bottom: 4px;">Vanilla Web</h4>
+                <p class="text-muted" style="font-size: 0.8rem;">HTML5, CSS Grids, Chart.js</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="card glass-card">
+        <h3 class="form-section-title"><i class="fa-solid fa-rocket"></i> Future Enhancements</h3>
+        <ul class="suggestions-list">
+            <li><i class="fa-solid fa-check text-muted"></i> <span>Integrate PostgreSQL database clusters for heavy horizontal traffic support.</span></li>
+            <li><i class="fa-solid fa-check text-muted"></i> <span>Incorporate real-time email triggers and push alerts when approvals execute.</span></li>
+            <li><i class="fa-solid fa-check text-muted"></i> <span>Adopt deep learning models (Neural Networks) to scan unstructured applicant documents.</span></li>
+        </ul>
+    </div>
+</div>
+{% endblock %}

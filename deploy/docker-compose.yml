@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    container_name: credit_card_approval_app
+    ports:
+      - "5000:5000"
+    volumes:
+      - ../db:/app/db
+      - ../logs:/app/logs
+    environment:
+      - FLASK_ENV=production
+      - DATABASE_URL=sqlite:///db/database.db
+      - RANDOM_SEED=42
+      - TEST_SIZE=0.2
+    restart: always

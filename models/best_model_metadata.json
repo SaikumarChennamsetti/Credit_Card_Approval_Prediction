@@ -1,0 +1,13 @@
+{
+    "best_algorithm": "random_forest",
+    "metrics": {
+        "accuracy": 0.7034883720930233,
+        "precision": 0.6,
+        "recall": 0.96,
+        "f1_score": 0.7384615384615385,
+        "roc_auc": 0.7331958762886598,
+        "cv_score": 0.6992700729927008
+    },
+    "selected_at": "2026-07-11T11:43:39Z",
+    "rationale": "The 'random_forest' model achieved the highest F1 score (0.7385) and best recall (0.9600) on the unseen test dataset, ensuring optimal balance between credit approvals and default risk controls."
+}

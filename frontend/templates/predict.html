@@ -1,0 +1,287 @@
+{% extends 'base.html' %}
+
+{% block title %}Apply for Credit Card - CredAI{% endblock %}
+
+{% block content %}
+<div class="container" style="max-width: 900px;">
+    <div class="text-center" style="margin-bottom: 40px;">
+        <h1 class="section-title">Credit Card Approval Application</h1>
+        <p class="text-muted">Provide your demographic and financial information to evaluate your card eligibility instantly.</p>
+    </div>
+
+    <div class="card glass-card" style="padding: 40px; margin-bottom: 40px;">
+        <div class="progress-bar-wrapper">
+            <div class="progress-step active" id="step-indicator-1">
+                <span class="step-icon flex-center">1</span>
+                <span class="step-label">Personal</span>
+            </div>
+            <div class="progress-step" id="step-indicator-2">
+                <span class="step-icon flex-center">2</span>
+                <span class="step-label">Employment</span>
+            </div>
+            <div class="progress-step" id="step-indicator-3">
+                <span class="step-icon flex-center">3</span>
+                <span class="step-label">Financial</span>
+            </div>
+            <div class="progress-step" id="step-indicator-4">
+                <span class="step-icon flex-center">4</span>
+                <span class="step-label">Submit</span>
+            </div>
+        </div>
+
+        <form id="predict-form" novalidate>
+            <div class="form-section active" id="section-1">
+                <h3 class="form-section-title"><i class="fa-solid fa-user"></i> Personal Information</h3>
+                
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="applicant_id" class="form-label">Applicant ID (Optional)</label>
+                        <input type="text" id="applicant_id" class="form-input" placeholder="e.g. C-10928">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="CODE_GENDER" class="form-label">Gender <span class="required">*</span></label>
+                        <select id="CODE_GENDER" class="form-input" required>
+                            <option value="" disabled selected>Select Gender</option>
+                            <option value="M">Male</option>
+                            <option value="F">Female</option>
+                        </select>
+                        <span class="error-message" id="error-CODE_GENDER"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="AGE" class="form-label">Age (Years) <span class="required">*</span></label>
+                        <input type="number" id="AGE" class="form-input" placeholder="e.g. 35" min="18" max="120" step="0.5" required>
+                        <span class="error-message" id="error-AGE"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="NAME_FAMILY_STATUS" class="form-label">Marital Status <span class="required">*</span></label>
+                        <select id="NAME_FAMILY_STATUS" class="form-input" required>
+                            <option value="" disabled selected>Select Marital Status</option>
+                            <option value="Married">Married</option>
+                            <option value="Single / not married">Single / Not Married</option>
+                            <option value="Civil marriage">Civil Marriage</option>
+                            <option value="Separated">Separated</option>
+                            <option value="Widow">Widowed</option>
+                        </select>
+                        <span class="error-message" id="error-NAME_FAMILY_STATUS"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="CNT_CHILDREN" class="form-label">Number of Children <span class="required">*</span></label>
+                        <input type="number" id="CNT_CHILDREN" class="form-input" placeholder="e.g. 0" min="0" max="20" required>
+                        <span class="error-message" id="error-CNT_CHILDREN"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="CNT_FAM_MEMBERS" class="form-label">Family Members Count <span class="required">*</span></label>
+                        <input type="number" id="CNT_FAM_MEMBERS" class="form-input" placeholder="e.g. 2" min="1" max="25" required>
+                        <span class="error-message" id="error-CNT_FAM_MEMBERS"></span>
+                    </div>
+
+                    <div class="form-group" style="grid-column: span 2;">
+                        <label for="NAME_EDUCATION_TYPE" class="form-label">Education Level <span class="required">*</span></label>
+                        <select id="NAME_EDUCATION_TYPE" class="form-input" required>
+                            <option value="" disabled selected>Select Education</option>
+                            <option value="Secondary / secondary special">Secondary / Secondary Special</option>
+                            <option value="Higher education">Higher Education</option>
+                            <option value="Incomplete higher">Incomplete Higher Education</option>
+                            <option value="Lower secondary">Lower Secondary Education</option>
+                            <option value="Academic degree">Academic Degree</option>
+                        </select>
+                        <span class="error-message" id="error-NAME_EDUCATION_TYPE"></span>
+                    </div>
+                </div>
+
+                <div class="form-navigation flex-end">
+                    <button type="button" class="btn btn-primary btn-next" data-next="2">Next Step <i class="fa-solid fa-arrow-right"></i></button>
+                </div>
+            </div>
+
+            <div class="form-section" id="section-2">
+                <h3 class="form-section-title"><i class="fa-solid fa-briefcase"></i> Employment Information</h3>
+                
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="NAME_INCOME_TYPE" class="form-label">Income Type <span class="required">*</span></label>
+                        <select id="NAME_INCOME_TYPE" class="form-input" required>
+                            <option value="" disabled selected>Select Income Type</option>
+                            <option value="Working">Working</option>
+                            <option value="Commercial associate">Commercial Associate</option>
+                            <option value="Pensioner">Pensioner</option>
+                            <option value="State servant">State Servant</option>
+                            <option value="Student">Student</option>
+                        </select>
+                        <span class="error-message" id="error-NAME_INCOME_TYPE"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="EMPLOYED_YEARS" class="form-label">Years of Employment <span class="required">*</span></label>
+                        <input type="number" id="EMPLOYED_YEARS" class="form-input" placeholder="e.g. 5 (Enter 0 if Pensioner/Unemployed)" min="0" max="60" step="0.5" required>
+                        <span class="error-message" id="error-EMPLOYED_YEARS"></span>
+                    </div>
+
+                    <div class="form-group" style="grid-column: span 2;">
+                        <label for="OCCUPATION_TYPE" class="form-label">Occupation <span class="required">*</span></label>
+                        <select id="OCCUPATION_TYPE" class="form-input" required>
+                            <option value="" disabled selected>Select Occupation</option>
+                            <option value="Unspecified">Unspecified / Unemployed</option>
+                            <option value="Laborers">Laborers</option>
+                            <option value="Core staff">Core Staff</option>
+                            <option value="Sales staff">Sales Staff</option>
+                            <option value="Managers">Managers</option>
+                            <option value="Drivers">Drivers</option>
+                            <option value="High skill tech staff">High Skill Tech Staff</option>
+                            <option value="Accountants">Accountants</option>
+                            <option value="Medicine staff">Medicine Staff</option>
+                            <option value="Security staff">Security Staff</option>
+                            <option value="Cooking staff">Cooking Staff</option>
+                            <option value="Cleaning staff">Cleaning Staff</option>
+                            <option value="Private service staff">Private Service Staff</option>
+                            <option value="Low-skill Laborers">Low-Skill Laborers</option>
+                            <option value="Secretaries">Secretaries</option>
+                            <option value="Waiters/barmen staff">Waiters/Barmen Staff</option>
+                            <option value="HR staff">HR Staff</option>
+                            <option value="Realty agents">Realty Agents</option>
+                            <option value="IT staff">IT Staff</option>
+                        </select>
+                        <span class="error-message" id="error-OCCUPATION_TYPE"></span>
+                    </div>
+                </div>
+
+                <div class="form-navigation">
+                    <button type="button" class="btn btn-secondary btn-prev" data-prev="1"><i class="fa-solid fa-arrow-left"></i> Previous</button>
+                    <button type="button" class="btn btn-primary btn-next" data-next="3">Next Step <i class="fa-solid fa-arrow-right"></i></button>
+                </div>
+            </div>
+
+            <div class="form-section" id="section-3">
+                <h3 class="form-section-title"><i class="fa-solid fa-wallet"></i> Financial Information</h3>
+                
+                <div class="form-grid">
+                    <div class="form-group" style="grid-column: span 2;">
+                        <label for="AMT_INCOME_TOTAL" class="form-label">Monthly Income (INR) <span class="required">*</span></label>
+                        <input type="number" id="AMT_INCOME_TOTAL" class="form-input" placeholder="e.g. 50000" min="0" max="10000000" required>
+                        <span class="error-message" id="error-AMT_INCOME_TOTAL"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="FLAG_OWN_CAR" class="form-label">Owns a Car? <span class="required">*</span></label>
+                        <select id="FLAG_OWN_CAR" class="form-input" required>
+                            <option value="" disabled selected>Select</option>
+                            <option value="Y">Yes</option>
+                            <option value="N">No</option>
+                        </select>
+                        <span class="error-message" id="error-FLAG_OWN_CAR"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="FLAG_OWN_REALTY" class="form-label">Owns Real Estate? <span class="required">*</span></label>
+                        <select id="FLAG_OWN_REALTY" class="form-input" required>
+                            <option value="" disabled selected>Select</option>
+                            <option value="Y">Yes</option>
+                            <option value="N">No</option>
+                        </select>
+                        <span class="error-message" id="error-FLAG_OWN_REALTY"></span>
+                    </div>
+
+                    <div class="form-group" style="grid-column: span 2;">
+                        <label for="NAME_HOUSING_TYPE" class="form-label">Housing Situation <span class="required">*</span></label>
+                        <select id="NAME_HOUSING_TYPE" class="form-input" required>
+                            <option value="" disabled selected>Select Housing Type</option>
+                            <option value="House / apartment">House / Apartment</option>
+                            <option value="With parents">With Parents</option>
+                            <option value="Municipal apartment">Municipal Apartment</option>
+                            <option value="Rented apartment">Rented Apartment</option>
+                            <option value="Office apartment">Office Apartment</option>
+                            <option value="Co-op apartment">Co-op Apartment</option>
+                        </select>
+                        <span class="error-message" id="error-NAME_HOUSING_TYPE"></span>
+                    </div>
+                </div>
+
+                <div class="form-navigation">
+                    <button type="button" class="btn btn-secondary btn-prev" data-prev="2"><i class="fa-solid fa-arrow-left"></i> Previous</button>
+                    <button type="button" class="btn btn-primary btn-next" data-next="4">Next Step <i class="fa-solid fa-arrow-right"></i></button>
+                </div>
+            </div>
+
+            <div class="form-section" id="section-4">
+                <h3 class="form-section-title"><i class="fa-solid fa-clipboard-check"></i> Review & Submit Application</h3>
+                <p class="text-muted" style="margin-bottom: 24px;">Please review your application parameters summary below before submitting for AI scoring.</p>
+                
+                <div class="review-summary-card">
+                    <div class="summary-item"><strong>Gender:</strong> <span id="sum-gender">-</span></div>
+                    <div class="summary-item"><strong>Age:</strong> <span id="sum-age">-</span> Years</div>
+                    <div class="summary-item"><strong>Education:</strong> <span id="sum-education">-</span></div>
+                    <div class="summary-item"><strong>Marital Status:</strong> <span id="sum-marital">-</span></div>
+                    <div class="summary-item"><strong>Annual Income:</strong> $<span id="sum-income">-</span></div>
+                    <div class="summary-item"><strong>Employment:</strong> <span id="sum-employment">-</span> Years</div>
+                    <div class="summary-item"><strong>Occupation:</strong> <span id="sum-occupation">-</span></div>
+                    <div class="summary-item"><strong>Home Ownership:</strong> <span id="sum-housing">-</span></div>
+                    <div class="summary-item"><strong>Car Ownership:</strong> <span id="sum-car">-</span></div>
+                    <div class="summary-item"><strong>Family Size:</strong> <span id="sum-family">-</span> Members</div>
+                </div>
+
+                <div class="form-navigation">
+                    <button type="button" class="btn btn-secondary btn-prev" data-prev="3"><i class="fa-solid fa-arrow-left"></i> Previous</button>
+                    <div style="display: flex; gap: 12px;">
+                        <button type="button" class="btn btn-secondary" id="btn-reset">Reset Form</button>
+                        <button type="submit" class="btn btn-primary" id="btn-submit">
+                            <i class="fa-solid fa-paper-plane"></i> Submit Application
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <section class="result-section" id="result-section" style="display: none;">
+        <div class="card result-card" id="result-card">
+            <div class="result-header">
+                <div class="result-badge-container">
+                    <span class="badge" id="result-status-badge"></span>
+                </div>
+                <h2 class="result-title" id="result-status-text"></h2>
+            </div>
+            
+            <div class="result-grid grid">
+                <div class="result-metric-card">
+                    <span class="metric-label">Approval Probability</span>
+                    <span class="metric-value" id="res-probability"></span>
+                </div>
+                <div class="result-metric-card">
+                    <span class="metric-label">Confidence Score</span>
+                    <span class="metric-value" id="res-confidence"></span>
+                </div>
+                <div class="result-metric-card">
+                    <span class="metric-label">Risk Assessment</span>
+                    <span class="metric-value" id="res-risk"></span>
+                </div>
+            </div>
+            
+            <div class="result-details">
+                <h4 class="detail-section-title">Decision Rationale Explanation</h4>
+                <p class="detail-text" id="res-explanation"></p>
+            </div>
+            
+            <div class="result-details" id="suggestions-box" style="display: none;">
+                <h4 class="detail-section-title">Actionable Improvement Recommendations</h4>
+                <ul class="suggestions-list" id="res-suggestions"></ul>
+            </div>
+            
+            <div class="result-footer">
+                <span class="record-meta">Record ID: <strong id="res-record-id"></strong></span>
+                <button class="btn btn-secondary btn-sm" id="btn-copy-summary">
+                    <i class="fa-solid fa-copy"></i> Copy Summary
+                </button>
+            </div>
+        </div>
+    </section>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{{ url_for('static', filename='js/predict.js') }}"></script>
+{% endblock %}

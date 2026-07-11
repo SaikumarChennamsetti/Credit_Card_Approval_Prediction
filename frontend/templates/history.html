@@ -1,0 +1,108 @@
+{% extends 'base.html' %}
+
+{% block title %}Prediction History Logs - CredAI{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="flex-between" style="margin-bottom: 40px;">
+        <div>
+            <h1 class="section-title" style="text-align: left; margin-bottom: 8px;">Prediction History Logs</h1>
+            <p class="text-muted">Review, filter, and audit past card evaluation records stored in the database.</p>
+        </div>
+        <button class="btn btn-secondary" id="btn-refresh-history">
+            <i class="fa-solid fa-arrows-rotate"></i> Refresh Logs
+        </button>
+    </div>
+
+    <div class="card glass-card toolbar-panel" style="padding: 24px; margin-bottom: 30px;">
+        <div class="toolbar-grid">
+            <div class="form-group" style="margin-bottom: 0;">
+                <label for="search-applicant-id" class="form-label">Search Applicant ID</label>
+                <div class="input-icon-wrapper">
+                    <i class="fa-solid fa-magnifying-glass input-icon-inner"></i>
+                    <input type="text" id="search-applicant-id" class="form-input" placeholder="e.g. C-10928">
+                </div>
+            </div>
+
+            <div class="form-group" style="margin-bottom: 0;">
+                <label for="filter-status" class="form-label">Filter Status</label>
+                <select id="filter-status" class="form-input">
+                    <option value="">All Predictions</option>
+                    <option value="1">Approved Only</option>
+                    <option value="0">Rejected Only</option>
+                </select>
+            </div>
+
+            <div class="form-group" style="margin-bottom: 0;">
+                <label for="filter-risk" class="form-label">Filter Risk Level</label>
+                <select id="filter-risk" class="form-input">
+                    <option value="">All Risk Levels</option>
+                    <option value="Low">Low Risk</option>
+                    <option value="Medium">Medium Risk</option>
+                    <option value="High">High Risk</option>
+                </select>
+            </div>
+
+            <div class="form-group" style="margin-bottom: 0;">
+                <label for="sort-order" class="form-label">Sort Direction</label>
+                <select id="sort-order" class="form-input">
+                    <option value="desc">Newest First</option>
+                    <option value="asc">Oldest First</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="card table-panel" style="padding: 0; overflow: hidden; margin-bottom: 30px;">
+        <div class="table-responsive">
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Applicant ID</th>
+                        <th>Prediction</th>
+                        <th>Probability</th>
+                        <th>Confidence</th>
+                        <th>Risk Level</th>
+                        <th>Timestamp</th>
+                        <th class="text-center">Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="history-rows-container">
+                </tbody>
+            </table>
+        </div>
+
+        <div class="empty-state" id="history-empty-state" style="display: none;">
+            <i class="fa-solid fa-database empty-icon"></i>
+            <h4 class="empty-title">No History Log Records Found</h4>
+            <p class="empty-desc">There are no records matching your query rules, or the database is currently empty.</p>
+            <a href="/predict" class="btn btn-primary btn-sm" style="margin-top: 15px;">Run First Prediction</a>
+        </div>
+    </div>
+
+    <div class="pagination-wrapper flex-between" id="pagination-container" style="display: none;">
+        <span class="pagination-info" id="pagination-summary">Showing 0 to 0 of 0 entries</span>
+        <div class="pagination-buttons">
+            <button class="btn btn-secondary btn-sm" id="btn-page-prev"><i class="fa-solid fa-chevron-left"></i> Previous</button>
+            <div class="page-numbers-list" id="page-numbers-container"></div>
+            <button class="btn btn-secondary btn-sm" id="btn-page-next">Next <i class="fa-solid fa-chevron-right"></i></button>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="details-modal" aria-hidden="true">
+    <div class="modal-dialog glass-card">
+        <div class="modal-header">
+            <h3 class="modal-title"><i class="fa-solid fa-circle-info"></i> Application Detailed Parameters</h3>
+            <button class="modal-close" id="btn-close-modal" aria-label="Close Details Modal">&times;</button>
+        </div>
+        <div class="modal-body" id="modal-content-body">
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{{ url_for('static', filename='js/charts.js') }}"></script>
+{% endblock %}

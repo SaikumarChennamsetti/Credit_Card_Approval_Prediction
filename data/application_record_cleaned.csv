@@ -1,0 +1,1001 @@
+ID,CODE_GENDER,FLAG_OWN_CAR,FLAG_OWN_REALTY,CNT_CHILDREN,AMT_INCOME_TOTAL,NAME_INCOME_TYPE,NAME_EDUCATION_TYPE,NAME_FAMILY_STATUS,NAME_HOUSING_TYPE,DAYS_BIRTH,DAYS_EMPLOYED,FLAG_MOBIL,FLAG_WORK_PHONE,FLAG_PHONE,FLAG_EMAIL,OCCUPATION_TYPE,CNT_FAM_MEMBERS
+100000,M,N,Y,0,164000.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,-20825,-520,1,0,0,0,Sales staff,1
+100001,M,N,Y,4,279500.0,Student,Incomplete higher,Single / not married,With parents,-20848,-5574,1,1,0,0,Accountants,5
+100002,F,Y,N,0,483500.0,Pensioner,Academic degree,Civil marriage,House / apartment,-22054,-8785,1,0,1,0,IT staff,2
+100003,F,Y,Y,4,73000.0,Commercial associate,Incomplete higher,Single / not married,With parents,-10309,-6227,1,1,1,1,Managers,6
+100004,M,N,Y,2,361500.0,Commercial associate,Academic degree,Married,With parents,-22147,-6216,1,1,0,1,Laborers,3
+100005,F,N,N,0,83500.0,Commercial associate,Academic degree,Civil marriage,With parents,-23358,-6482,1,1,0,1,Managers,1
+100006,F,N,N,4,235000.0,Commercial associate,Higher education,Widow,Municipal apartment,-9978,-12382,1,0,0,0,Cleaning staff,5
+100007,M,N,N,3,355000.0,State servant,Academic degree,Civil marriage,Office apartment,-7376,-11145,1,0,1,1,Core staff,5
+100008,M,N,Y,3,419500.0,Pensioner,Academic degree,Married,Office apartment,-10486,-14262,1,1,0,0,Accountants,4
+100009,M,N,N,4,59500.0,Working,Incomplete higher,Civil marriage,With parents,-8898,-3946,1,0,0,1,Core staff,5
+100010,F,Y,N,1,320000.0,Student,Lower secondary,Married,Office apartment,-13591,-11680,1,1,1,1,Security staff,3
+100011,M,Y,Y,0,223000.0,Working,Academic degree,Widow,With parents,-14216,-117,1,0,0,0,Core staff,1
+100012,M,Y,N,2,392500.0,State servant,Higher education,Widow,With parents,-22488,-3981,1,1,1,0,Core staff,3
+100013,F,N,N,3,289000.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-18118,-13116,1,0,0,0,Sales staff,5
+100014,F,Y,N,1,286500.0,Commercial associate,Secondary / secondary special,Separated,Office apartment,-10208,-828,1,0,0,0,Managers,3
+100015,F,Y,N,3,80000.0,Commercial associate,Lower secondary,Single / not married,Municipal apartment,-15690,-12846,1,1,1,1,Unspecified,5
+100016,M,N,Y,1,79500.0,Student,Academic degree,Single / not married,Rented apartment,-8873,-821,1,1,0,0,IT staff,2
+100017,M,Y,Y,1,256500.0,Working,Academic degree,Married,Office apartment,-8302,-10147,1,0,1,1,Drivers,2
+100018,M,N,N,2,117000.0,Pensioner,Lower secondary,Civil marriage,House / apartment,-7305,-7508,1,0,0,0,IT staff,4
+100019,F,Y,Y,1,239000.0,Pensioner,Higher education,Separated,Office apartment,-16912,-10021,1,0,1,0,Managers,3
+100020,M,Y,N,0,194000.0,Student,Higher education,Civil marriage,With parents,-15650,-8280,1,1,1,0,Core staff,2
+100021,M,Y,N,2,444500.0,Commercial associate,Incomplete higher,Married,Municipal apartment,-21014,-9189,1,0,0,0,Unspecified,3
+100022,M,N,Y,4,270000.0,Commercial associate,Secondary / secondary special,Civil marriage,Rented apartment,-8307,-14727,1,1,0,0,Cleaning staff,5
+100023,F,Y,Y,2,492500.0,Commercial associate,Higher education,Separated,House / apartment,-12877,-12067,1,1,1,0,Drivers,3
+100024,F,Y,N,0,163500.0,Commercial associate,Lower secondary,Civil marriage,Rented apartment,-14457,-3652,1,0,0,1,Accountants,2
+100025,F,N,N,0,397500.0,Student,Incomplete higher,Single / not married,House / apartment,-15559,-2925,1,1,0,0,Cooking staff,2
+100026,F,N,Y,2,247000.0,Student,Higher education,Civil marriage,House / apartment,-21288,-27,1,0,1,1,Core staff,4
+100027,F,Y,N,4,309500.0,Pensioner,Lower secondary,Civil marriage,Municipal apartment,-16688,-9083,1,0,0,1,Cleaning staff,6
+100028,F,N,Y,1,205500.0,Pensioner,Higher education,Separated,Office apartment,-17559,-7618,1,1,1,0,IT staff,3
+100029,M,N,N,1,97500.0,Commercial associate,Incomplete higher,Married,With parents,-11828,-400,1,0,0,1,Cooking staff,2
+100030,F,Y,N,3,303000.0,State servant,Higher education,Married,House / apartment,-10492,-12753,1,1,0,0,Unspecified,5
+100031,M,Y,N,0,118000.0,State servant,Academic degree,Widow,Office apartment,-17397,-12374,1,1,1,1,Managers,2
+100032,F,Y,N,3,442000.0,Student,Lower secondary,Married,Rented apartment,-21413,-1269,1,1,0,1,Accountants,5
+100033,M,Y,Y,4,168000.0,State servant,Higher education,Married,House / apartment,-20594,-6678,1,1,1,1,Laborers,5
+100034,F,Y,N,3,294000.0,Working,Incomplete higher,Civil marriage,Municipal apartment,-20730,-8818,1,0,1,0,Drivers,5
+100035,M,N,N,3,392000.0,State servant,Higher education,Separated,With parents,-24502,-441,1,1,0,0,Cleaning staff,5
+100036,F,Y,Y,1,183000.0,State servant,Incomplete higher,Married,Municipal apartment,-17710,-5529,1,1,1,1,Drivers,2
+100037,M,Y,N,3,164500.0,Working,Secondary / secondary special,Single / not married,With parents,-13532,-13749,1,0,0,0,Managers,5
+100038,M,N,N,0,442500.0,Pensioner,Higher education,Widow,Office apartment,-10753,-12743,1,0,1,0,Cooking staff,1
+100039,F,N,Y,2,88500.0,Student,Higher education,Single / not married,Rented apartment,-10966,-13045,1,0,1,1,Cleaning staff,4
+100040,F,Y,N,0,471000.0,State servant,Secondary / secondary special,Separated,Rented apartment,-22064,-11588,1,0,1,0,Unspecified,2
+100041,F,N,N,4,472500.0,Student,Incomplete higher,Civil marriage,With parents,-9839,-4569,1,1,0,1,Cooking staff,6
+100042,M,N,N,2,143000.0,State servant,Higher education,Civil marriage,Rented apartment,-18152,-4581,1,1,0,0,Core staff,3
+100043,F,Y,N,3,380500.0,State servant,Lower secondary,Single / not married,House / apartment,-16641,-3630,1,1,0,1,Cleaning staff,5
+100044,F,N,N,3,230000.0,State servant,Incomplete higher,Civil marriage,Rented apartment,-14554,-1976,1,0,1,0,Unspecified,4
+100045,M,N,N,1,420500.0,Student,Academic degree,Widow,Rented apartment,-10294,-13641,1,0,1,0,Accountants,2
+100046,M,Y,N,2,73000.0,Working,Academic degree,Civil marriage,With parents,-23085,-1680,1,0,1,1,Security staff,4
+100047,M,Y,N,2,491000.0,State servant,Secondary / secondary special,Single / not married,Municipal apartment,-23113,-1213,1,0,0,0,Cooking staff,4
+100048,M,Y,N,0,360000.0,Student,Academic degree,Married,Office apartment,-19464,-7381,1,1,1,1,Drivers,1
+100049,M,Y,Y,4,185000.0,Working,Higher education,Married,With parents,-9459,-2564,1,0,1,1,Unspecified,6
+100050,M,Y,N,2,411500.0,Pensioner,Lower secondary,Single / not married,With parents,-15668,-12907,1,0,1,0,IT staff,3
+100051,F,Y,Y,1,80500.0,Commercial associate,Incomplete higher,Widow,Office apartment,-16457,-7195,1,0,1,1,Unspecified,3
+100052,F,N,Y,2,356000.0,Working,Lower secondary,Civil marriage,Office apartment,-15204,-423,1,0,0,0,Cleaning staff,4
+100053,M,Y,N,4,315500.0,State servant,Incomplete higher,Married,Office apartment,-21283,-10400,1,1,0,1,Accountants,6
+100054,F,Y,Y,2,218500.0,State servant,Lower secondary,Civil marriage,Municipal apartment,-8202,-7451,1,0,1,1,Accountants,3
+100055,M,N,N,3,77500.0,Commercial associate,Academic degree,Civil marriage,Office apartment,-23334,-10246,1,1,0,0,Drivers,4
+100056,F,N,Y,2,64500.0,Student,Higher education,Married,Rented apartment,-7448,-9048,1,1,0,0,Core staff,4
+100057,M,N,N,0,310500.0,Pensioner,Lower secondary,Separated,Municipal apartment,-14986,-7483,1,0,1,0,Cooking staff,1
+100058,F,N,N,0,453000.0,Student,Incomplete higher,Single / not married,Rented apartment,-16783,-13721,1,1,0,1,IT staff,2
+100059,F,N,N,2,214500.0,Commercial associate,Higher education,Widow,Municipal apartment,-14653,-14024,1,1,0,1,Unspecified,4
+100060,F,Y,N,3,68500.0,Commercial associate,Academic degree,Widow,Rented apartment,-10288,-14322,1,1,0,1,Laborers,4
+100061,M,Y,N,3,450000.0,Pensioner,Incomplete higher,Widow,Municipal apartment,-9631,-13955,1,1,1,1,Cleaning staff,5
+100062,M,Y,Y,4,373000.0,Pensioner,Higher education,Single / not married,Municipal apartment,-10225,-12457,1,0,1,0,Unspecified,6
+100063,M,N,Y,0,200000.0,Pensioner,Incomplete higher,Separated,With parents,-15001,-8702,1,1,0,0,Managers,1
+100064,F,Y,N,4,348500.0,Commercial associate,Higher education,Separated,Rented apartment,-22059,-4183,1,0,1,1,Cleaning staff,5
+100065,F,N,N,0,377000.0,State servant,Incomplete higher,Separated,Rented apartment,-13527,-6302,1,1,0,0,Medicine staff,2
+100066,F,N,Y,4,474500.0,State servant,Incomplete higher,Single / not married,Office apartment,-8607,-14919,1,1,1,0,Cooking staff,6
+100067,M,N,Y,1,371500.0,Working,Secondary / secondary special,Civil marriage,Municipal apartment,-8093,-9495,1,1,0,0,Drivers,3
+100068,M,Y,Y,3,452500.0,Student,Incomplete higher,Widow,Office apartment,-15930,-13606,1,0,1,1,Drivers,5
+100069,F,Y,Y,0,436000.0,Commercial associate,Lower secondary,Widow,Rented apartment,-9959,-12954,1,1,0,1,IT staff,1
+100070,F,N,N,3,471000.0,Pensioner,Secondary / secondary special,Married,Municipal apartment,-7820,-10150,1,1,0,0,Cleaning staff,5
+100071,F,Y,Y,2,73000.0,Working,Incomplete higher,Separated,House / apartment,-10184,-3846,1,0,1,1,Accountants,4
+100072,M,N,Y,4,476500.0,State servant,Academic degree,Separated,Rented apartment,-8072,-11309,1,1,0,1,Security staff,5
+100073,M,N,N,2,81000.0,State servant,Incomplete higher,Married,House / apartment,-21900,-1501,1,0,0,0,Accountants,3
+100074,M,Y,Y,1,350000.0,Commercial associate,Higher education,Civil marriage,With parents,-7092,-4542,1,0,0,1,Managers,2
+100075,M,Y,N,0,454000.0,Commercial associate,Academic degree,Civil marriage,House / apartment,-12709,-4347,1,0,0,1,IT staff,1
+100076,F,N,N,0,312500.0,Student,Secondary / secondary special,Separated,Office apartment,-14259,-10077,1,0,1,1,Cleaning staff,1
+100077,F,N,N,0,401000.0,Working,Lower secondary,Separated,House / apartment,-9647,-5277,1,0,0,0,Drivers,2
+100078,F,N,N,3,100500.0,Working,Academic degree,Married,Municipal apartment,-21796,-14550,1,0,1,1,Security staff,5
+100079,M,N,N,3,210000.0,Pensioner,Incomplete higher,Married,Municipal apartment,-9199,-1494,1,0,0,1,Core staff,5
+100080,M,N,Y,1,260000.0,Pensioner,Lower secondary,Single / not married,Rented apartment,-17238,-5761,1,0,0,0,Cleaning staff,3
+100081,M,N,N,1,108500.0,Pensioner,Academic degree,Married,Municipal apartment,-7860,-9977,1,1,0,0,Drivers,3
+100082,F,Y,Y,2,495000.0,Commercial associate,Academic degree,Separated,House / apartment,-11648,-12140,1,0,0,0,Medicine staff,4
+100083,F,Y,N,3,209500.0,Pensioner,Academic degree,Widow,House / apartment,-8723,-2549,1,0,0,0,Drivers,5
+100084,F,N,N,3,189500.0,Commercial associate,Academic degree,Single / not married,Rented apartment,-21087,-1816,1,1,1,1,Laborers,4
+100085,M,Y,Y,3,204000.0,Commercial associate,Higher education,Civil marriage,Rented apartment,-17751,-1965,1,0,1,1,Managers,4
+100086,M,N,Y,3,253000.0,Working,Lower secondary,Single / not married,Municipal apartment,-9551,-14124,1,1,1,1,Unspecified,5
+100087,M,N,Y,2,216000.0,Commercial associate,Academic degree,Separated,Rented apartment,-9887,-7155,1,0,0,1,Cooking staff,4
+100088,M,N,N,4,431500.0,Pensioner,Higher education,Civil marriage,With parents,-9502,-8363,1,0,0,1,Accountants,5
+100089,M,Y,N,1,151000.0,Commercial associate,Academic degree,Married,House / apartment,-12804,-12662,1,1,1,1,Cleaning staff,3
+100090,M,N,Y,2,290000.0,State servant,Incomplete higher,Civil marriage,Office apartment,-8840,-5766,1,0,1,1,Security staff,3
+100091,F,N,Y,0,380000.0,Working,Academic degree,Widow,Office apartment,-19598,-7581,1,0,1,0,Accountants,2
+100092,M,Y,N,4,102500.0,Pensioner,Secondary / secondary special,Widow,With parents,-8282,-4059,1,1,1,0,Accountants,6
+100093,F,N,N,2,397500.0,Student,Secondary / secondary special,Civil marriage,House / apartment,-17803,-1548,1,1,1,1,Unspecified,3
+100094,M,Y,N,2,208500.0,State servant,Higher education,Widow,House / apartment,-17144,-9157,1,1,1,0,Cleaning staff,3
+100095,F,Y,N,3,208000.0,Commercial associate,Higher education,Civil marriage,Municipal apartment,-13291,-3711,1,0,0,0,Drivers,4
+100096,M,N,Y,4,355500.0,State servant,Higher education,Married,With parents,-12424,-11815,1,1,0,1,Accountants,5
+100097,F,N,Y,3,323000.0,Commercial associate,Incomplete higher,Separated,With parents,-19053,-11113,1,1,1,1,Medicine staff,5
+100098,M,Y,N,1,76500.0,State servant,Incomplete higher,Widow,House / apartment,-23905,-13945,1,0,1,0,Managers,3
+100099,M,N,Y,3,163500.0,State servant,Incomplete higher,Single / not married,Municipal apartment,-8745,-6495,1,1,0,1,Core staff,5
+100100,M,N,Y,1,479500.0,Pensioner,Higher education,Married,House / apartment,-16400,-13594,1,1,0,1,Security staff,2
+100101,M,N,Y,0,477500.0,Commercial associate,Academic degree,Widow,Office apartment,-20869,-1821,1,1,0,1,Core staff,1
+100102,F,N,Y,1,106500.0,State servant,Academic degree,Widow,House / apartment,-23887,-9421,1,0,0,1,Medicine staff,2
+100103,F,Y,N,4,145500.0,Working,Academic degree,Civil marriage,House / apartment,-24237,-8914,1,0,1,1,Laborers,6
+100104,F,Y,N,2,453500.0,Working,Incomplete higher,Married,House / apartment,-17895,-2185,1,0,1,1,Cleaning staff,3
+100105,F,Y,Y,3,82000.0,State servant,Secondary / secondary special,Civil marriage,With parents,-8435,-12961,1,0,0,1,Drivers,5
+100106,F,N,Y,4,435500.0,Commercial associate,Incomplete higher,Civil marriage,House / apartment,-17876,-4476,1,0,1,1,Medicine staff,6
+100107,F,Y,N,3,404000.0,State servant,Incomplete higher,Widow,Rented apartment,-9707,-11912,1,1,0,1,Cooking staff,4
+100108,F,N,Y,4,90500.0,Pensioner,Incomplete higher,Civil marriage,Municipal apartment,-20962,-2730,1,1,1,1,Laborers,6
+100109,F,N,Y,4,88000.0,State servant,Incomplete higher,Widow,With parents,-8020,-2339,1,1,0,0,Core staff,5
+100110,F,N,Y,2,359500.0,Commercial associate,Lower secondary,Civil marriage,Rented apartment,-21547,-12502,1,0,0,1,Medicine staff,4
+100111,M,Y,Y,2,426500.0,Commercial associate,Lower secondary,Widow,Municipal apartment,-10858,-4288,1,1,1,0,Cooking staff,4
+100112,M,Y,Y,3,486500.0,Working,Lower secondary,Married,Municipal apartment,-9876,-13279,1,1,1,0,IT staff,5
+100113,M,Y,N,2,310000.0,Commercial associate,Secondary / secondary special,Married,With parents,-14757,-12949,1,1,0,1,IT staff,4
+100114,M,Y,Y,3,208000.0,State servant,Lower secondary,Widow,Municipal apartment,-20416,-13489,1,0,0,1,Cleaning staff,4
+100115,F,N,Y,3,499500.0,Student,Academic degree,Married,With parents,-21176,-8238,1,0,0,0,Drivers,4
+100116,F,Y,N,1,315500.0,Pensioner,Secondary / secondary special,Civil marriage,With parents,-15993,-2050,1,1,0,0,Cooking staff,2
+100117,F,Y,Y,1,91500.0,Working,Academic degree,Civil marriage,With parents,-20650,-10127,1,0,1,1,Cleaning staff,3
+100118,M,N,N,3,282000.0,Working,Secondary / secondary special,Married,Municipal apartment,-20619,-7933,1,1,0,1,Cooking staff,4
+100119,F,N,N,2,116500.0,Pensioner,Academic degree,Widow,House / apartment,-17456,-3960,1,1,0,1,Security staff,3
+100120,M,Y,N,1,246500.0,Student,Lower secondary,Married,With parents,-17729,-9464,1,1,0,0,Security staff,3
+100121,F,N,Y,3,96000.0,State servant,Academic degree,Separated,With parents,-14049,-9557,1,1,0,0,Drivers,5
+100122,F,N,Y,4,483500.0,Working,Lower secondary,Married,Rented apartment,-18985,-12515,1,1,1,0,Medicine staff,5
+100123,M,N,N,4,87500.0,State servant,Academic degree,Separated,Office apartment,-16165,-13521,1,0,0,0,Medicine staff,6
+100124,F,Y,Y,2,358000.0,Student,Lower secondary,Widow,House / apartment,-8484,-637,1,0,1,1,IT staff,4
+100125,M,N,N,1,133000.0,State servant,Academic degree,Civil marriage,Office apartment,-18022,-8311,1,1,1,1,Laborers,3
+100126,M,N,N,2,457500.0,Working,Academic degree,Separated,Rented apartment,-14456,-11819,1,0,1,0,IT staff,4
+100127,M,Y,Y,1,147500.0,Working,Lower secondary,Civil marriage,Municipal apartment,-11962,-6765,1,0,1,1,Unspecified,2
+100128,M,N,N,1,319000.0,State servant,Incomplete higher,Married,Municipal apartment,-24469,-5608,1,1,1,1,Sales staff,2
+100129,F,Y,N,2,444500.0,Pensioner,Higher education,Separated,Rented apartment,-22722,-5714,1,1,1,0,Cooking staff,4
+100130,F,Y,N,3,71500.0,Pensioner,Secondary / secondary special,Civil marriage,Municipal apartment,-15403,-12244,1,1,0,0,IT staff,5
+100131,F,Y,Y,4,365000.0,Student,Higher education,Married,House / apartment,-24401,-3697,1,0,0,0,Medicine staff,6
+100132,M,Y,Y,3,331500.0,Commercial associate,Lower secondary,Separated,Municipal apartment,-13535,-12384,1,1,1,1,Cleaning staff,4
+100133,M,Y,Y,0,263500.0,Commercial associate,Secondary / secondary special,Separated,Municipal apartment,-13105,-12271,1,1,0,0,Drivers,1
+100134,F,N,N,2,118500.0,Student,Lower secondary,Civil marriage,With parents,-10691,-5417,1,0,1,1,Unspecified,3
+100135,F,N,Y,0,139500.0,Student,Lower secondary,Separated,Office apartment,-17745,-1421,1,1,0,0,Managers,2
+100136,M,Y,N,2,246000.0,Commercial associate,Lower secondary,Civil marriage,Rented apartment,-16894,-9543,1,0,1,1,Unspecified,3
+100137,M,N,N,0,131500.0,State servant,Academic degree,Civil marriage,House / apartment,-16667,-6021,1,0,0,0,Security staff,1
+100138,F,N,N,3,437500.0,Student,Higher education,Married,Office apartment,-9682,-8609,1,1,1,0,Cooking staff,4
+100139,M,Y,Y,0,217500.0,Student,Lower secondary,Single / not married,With parents,-23017,-1489,1,1,0,1,Managers,2
+100140,M,N,N,3,420000.0,Working,Lower secondary,Civil marriage,House / apartment,-14140,-9475,1,0,0,1,Accountants,4
+100141,M,Y,N,4,66000.0,Pensioner,Lower secondary,Married,With parents,-20774,-6135,1,1,1,1,Medicine staff,5
+100142,M,N,Y,4,141000.0,Student,Lower secondary,Widow,With parents,-14297,-13677,1,0,0,1,Security staff,6
+100143,F,Y,Y,4,285500.0,Pensioner,Higher education,Civil marriage,With parents,-10697,-527,1,1,0,0,Sales staff,5
+100144,M,N,Y,0,175000.0,Working,Lower secondary,Separated,With parents,-24686,-3559,1,0,0,1,Sales staff,2
+100145,F,Y,N,4,498500.0,Commercial associate,Academic degree,Married,Municipal apartment,-16846,-4508,1,0,0,1,IT staff,6
+100146,F,N,N,0,406500.0,State servant,Lower secondary,Married,Rented apartment,-19335,-3012,1,1,0,0,Drivers,1
+100147,M,N,N,3,335000.0,Student,Higher education,Separated,With parents,-15355,-3331,1,1,0,1,Accountants,4
+100148,M,Y,N,4,243000.0,Student,Academic degree,Single / not married,House / apartment,-13165,-13183,1,0,1,0,Accountants,6
+100149,M,Y,Y,0,432000.0,State servant,Higher education,Widow,With parents,-19996,-14993,1,0,1,1,Medicine staff,2
+100150,F,N,N,4,234000.0,Student,Lower secondary,Separated,House / apartment,-22384,-12478,1,1,0,1,Accountants,6
+100151,M,Y,Y,0,183500.0,Student,Academic degree,Widow,Municipal apartment,-16672,-2497,1,0,1,0,Medicine staff,1
+100152,F,N,N,3,420000.0,State servant,Lower secondary,Married,Rented apartment,-12546,-2293,1,1,0,0,IT staff,4
+100153,M,Y,N,0,120000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-14167,-8285,1,1,1,0,Cooking staff,2
+100154,M,Y,N,3,56000.0,Working,Academic degree,Civil marriage,Office apartment,-16394,-280,1,1,0,0,Core staff,4
+100155,M,N,N,1,186500.0,State servant,Secondary / secondary special,Civil marriage,Municipal apartment,-22040,-9256,1,0,0,1,Cleaning staff,2
+100156,M,N,N,0,243000.0,Student,Lower secondary,Single / not married,House / apartment,-12615,-1354,1,1,1,1,Cooking staff,1
+100157,M,Y,Y,4,494000.0,Student,Lower secondary,Civil marriage,House / apartment,-9436,-11213,1,1,0,0,Accountants,5
+100158,M,N,Y,1,203000.0,Commercial associate,Academic degree,Married,Office apartment,-19751,-11092,1,1,1,0,Unspecified,2
+100159,F,Y,Y,4,273500.0,Commercial associate,Secondary / secondary special,Civil marriage,Office apartment,-19999,-12673,1,1,0,1,Security staff,6
+100160,F,N,N,1,145000.0,Student,Lower secondary,Single / not married,Office apartment,-16678,-13075,1,0,0,0,Drivers,2
+100161,M,N,N,3,234500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-21573,-5896,1,1,0,0,Core staff,4
+100162,F,N,Y,3,63000.0,Working,Incomplete higher,Widow,House / apartment,-17630,-14151,1,1,0,1,Medicine staff,5
+100163,M,Y,N,0,136500.0,Commercial associate,Incomplete higher,Civil marriage,Rented apartment,-23158,-2390,1,0,0,1,Drivers,2
+100164,F,Y,N,2,178500.0,Commercial associate,Lower secondary,Widow,Office apartment,-13407,-7501,1,0,0,1,Laborers,4
+100165,F,N,N,2,221000.0,State servant,Academic degree,Married,Rented apartment,-17507,-9883,1,0,1,1,Managers,4
+100166,F,N,Y,2,216500.0,State servant,Incomplete higher,Separated,Rented apartment,-10731,-9238,1,0,0,0,Unspecified,4
+100167,F,N,Y,1,469000.0,State servant,Lower secondary,Married,Rented apartment,-14930,-4139,1,0,1,1,Core staff,3
+100168,F,N,N,4,328000.0,Working,Incomplete higher,Widow,Office apartment,-9784,-1791,1,0,1,0,Cleaning staff,5
+100169,F,N,N,4,104000.0,Working,Secondary / secondary special,Civil marriage,With parents,-23733,-12236,1,0,1,1,Medicine staff,6
+100170,M,N,Y,4,297000.0,Working,Incomplete higher,Separated,House / apartment,-10803,-13620,1,0,1,1,Accountants,6
+100171,F,N,N,1,99500.0,State servant,Lower secondary,Civil marriage,House / apartment,-16839,-732,1,0,0,1,Cleaning staff,2
+100172,M,Y,Y,1,219000.0,Student,Lower secondary,Separated,With parents,-20272,-10317,1,0,0,1,Medicine staff,2
+100173,M,N,N,4,249000.0,Working,Higher education,Married,Rented apartment,-9050,-9459,1,0,0,1,Accountants,5
+100174,M,N,N,3,320000.0,Pensioner,Academic degree,Separated,Office apartment,-19862,-9617,1,0,1,1,Security staff,4
+100175,M,Y,N,2,110000.0,Commercial associate,Incomplete higher,Single / not married,With parents,-19232,-11361,1,0,1,1,Cooking staff,3
+100176,F,N,Y,4,299000.0,Student,Higher education,Widow,With parents,-23044,-4732,1,0,0,1,Security staff,5
+100177,M,N,Y,2,149500.0,State servant,Academic degree,Widow,Municipal apartment,-20406,-11218,1,1,1,1,Security staff,3
+100178,M,Y,N,0,66500.0,Pensioner,Higher education,Widow,Rented apartment,-12511,-12791,1,1,1,0,Cooking staff,1
+100179,F,Y,N,2,329500.0,Commercial associate,Lower secondary,Single / not married,With parents,-16755,-14332,1,0,1,1,Accountants,3
+100180,M,Y,Y,3,465000.0,Student,Incomplete higher,Widow,Municipal apartment,-12438,-10095,1,0,0,0,Laborers,5
+100181,F,Y,N,4,410000.0,Pensioner,Incomplete higher,Widow,Rented apartment,-23856,-14748,1,0,0,1,Laborers,6
+100182,M,Y,Y,1,414000.0,Pensioner,Higher education,Separated,Municipal apartment,-11658,-9460,1,1,1,1,Security staff,2
+100183,F,N,N,0,282500.0,State servant,Incomplete higher,Widow,House / apartment,-10052,-11975,1,1,1,0,IT staff,2
+100184,F,Y,N,1,187000.0,Pensioner,Incomplete higher,Civil marriage,Office apartment,-11279,-9275,1,1,1,0,Laborers,2
+100185,M,Y,Y,3,275500.0,State servant,Secondary / secondary special,Separated,With parents,-11322,-14453,1,1,0,1,Core staff,5
+100186,M,N,Y,2,76500.0,State servant,Incomplete higher,Married,Municipal apartment,-9988,-11529,1,0,0,0,Security staff,3
+100187,M,N,Y,1,54000.0,Pensioner,Secondary / secondary special,Separated,With parents,-22653,-1160,1,0,1,0,Unspecified,2
+100188,F,N,N,0,120000.0,State servant,Higher education,Married,House / apartment,-24383,-9228,1,0,0,1,Accountants,1
+100189,F,N,Y,1,94000.0,Working,Higher education,Single / not married,Office apartment,-19583,-5759,1,1,1,0,Sales staff,3
+100190,M,N,Y,0,484000.0,Pensioner,Higher education,Widow,Office apartment,-23696,-3090,1,1,1,0,Sales staff,2
+100191,M,Y,N,3,376500.0,Student,Secondary / secondary special,Widow,House / apartment,-18832,-5185,1,0,1,1,Accountants,4
+100192,M,Y,Y,3,57000.0,Pensioner,Higher education,Single / not married,House / apartment,-20040,-8300,1,1,1,1,Unspecified,5
+100193,M,N,Y,0,208500.0,Working,Academic degree,Married,With parents,-24576,-5353,1,1,0,1,Unspecified,2
+100194,M,Y,Y,1,272000.0,Working,Lower secondary,Widow,Office apartment,-8803,-5067,1,0,0,0,Unspecified,2
+100195,M,N,N,0,317500.0,Student,Incomplete higher,Married,Rented apartment,-11159,-12284,1,1,0,0,Accountants,2
+100196,M,N,Y,2,304000.0,State servant,Academic degree,Civil marriage,House / apartment,-23371,-14079,1,0,1,0,Drivers,3
+100197,M,Y,Y,4,72500.0,Working,Higher education,Single / not married,Municipal apartment,-18926,-6274,1,0,0,0,IT staff,6
+100198,F,Y,N,1,418500.0,Pensioner,Incomplete higher,Single / not married,Office apartment,-19216,-1956,1,0,0,0,IT staff,2
+100199,M,N,N,3,446000.0,Pensioner,Incomplete higher,Single / not married,Office apartment,-21966,-130,1,1,0,1,Cooking staff,5
+100200,M,N,N,4,352500.0,State servant,Higher education,Widow,With parents,-11933,-104,1,1,0,0,IT staff,6
+100201,F,Y,N,0,484500.0,Pensioner,Secondary / secondary special,Married,Office apartment,-14804,-6878,1,1,0,0,Unspecified,2
+100202,M,Y,N,0,408500.0,Pensioner,Lower secondary,Single / not married,Office apartment,-10131,-8280,1,0,1,0,Cooking staff,1
+100203,M,Y,N,3,183500.0,Pensioner,Lower secondary,Civil marriage,Rented apartment,-21835,-4455,1,0,0,0,Managers,4
+100204,M,Y,N,1,288500.0,Pensioner,Lower secondary,Single / not married,Office apartment,-18740,-12621,1,0,1,1,Security staff,3
+100205,M,Y,N,0,473000.0,Student,Secondary / secondary special,Married,Rented apartment,-11860,-1494,1,0,1,1,IT staff,1
+100206,F,Y,Y,2,257000.0,State servant,Academic degree,Widow,With parents,-10103,-7570,1,0,0,0,Laborers,3
+100207,M,Y,N,1,240500.0,Working,Academic degree,Widow,Rented apartment,-9457,-357,1,0,0,1,Managers,2
+100208,M,Y,N,2,75500.0,Commercial associate,Academic degree,Separated,Municipal apartment,-23257,-483,1,1,1,0,Accountants,3
+100209,F,N,N,1,126000.0,Working,Academic degree,Widow,Office apartment,-15053,-10605,1,1,1,1,IT staff,3
+100210,M,N,N,0,120000.0,State servant,Higher education,Widow,With parents,-24814,-13022,1,0,1,1,Security staff,2
+100211,F,N,N,2,142000.0,Working,Incomplete higher,Widow,With parents,-7960,-14676,1,1,0,1,IT staff,4
+100212,M,Y,Y,4,176500.0,Commercial associate,Incomplete higher,Widow,House / apartment,-14189,-9432,1,1,1,0,Managers,5
+100213,F,N,Y,4,410000.0,Pensioner,Academic degree,Widow,With parents,-13168,-13708,1,1,1,0,Security staff,5
+100214,M,Y,Y,0,60000.0,Student,Lower secondary,Single / not married,Rented apartment,-13601,-13212,1,0,1,0,Accountants,1
+100215,M,Y,Y,0,483000.0,Student,Incomplete higher,Single / not married,Rented apartment,-19962,-9601,1,0,1,1,Accountants,1
+100216,F,N,N,1,139000.0,Student,Academic degree,Civil marriage,With parents,-12745,-6199,1,1,1,0,Managers,2
+100217,F,Y,Y,4,358000.0,Pensioner,Academic degree,Married,Office apartment,-10411,-8129,1,0,1,0,Sales staff,6
+100218,M,Y,N,2,278500.0,Working,Incomplete higher,Married,With parents,-9221,-5742,1,1,0,0,Laborers,4
+100219,F,Y,N,3,302000.0,State servant,Incomplete higher,Widow,Municipal apartment,-10323,-13579,1,1,0,0,Security staff,4
+100220,F,Y,N,0,183500.0,Working,Secondary / secondary special,Civil marriage,With parents,-19303,-2636,1,0,0,1,Cooking staff,2
+100221,F,Y,N,0,130000.0,Working,Secondary / secondary special,Civil marriage,With parents,-13225,-6705,1,1,1,1,Sales staff,1
+100222,F,N,Y,0,77500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,-16651,-13498,1,1,0,0,Laborers,1
+100223,F,Y,N,1,482000.0,Working,Incomplete higher,Separated,Municipal apartment,-23026,-14661,1,1,0,1,Managers,3
+100224,F,Y,N,3,72500.0,Pensioner,Lower secondary,Separated,Rented apartment,-14413,-13714,1,1,0,0,Unspecified,4
+100225,F,N,Y,0,333000.0,Working,Lower secondary,Widow,Municipal apartment,-24547,-11256,1,1,0,1,Drivers,1
+100226,M,Y,Y,3,437500.0,State servant,Higher education,Married,With parents,-13315,-2067,1,0,1,0,Cleaning staff,5
+100227,M,N,N,1,422000.0,Working,Secondary / secondary special,Separated,Office apartment,-20020,-9044,1,1,1,1,Laborers,3
+100228,F,Y,Y,0,340000.0,Student,Academic degree,Single / not married,House / apartment,-10309,-12873,1,1,1,1,Drivers,2
+100229,F,Y,Y,3,191000.0,State servant,Higher education,Widow,Office apartment,-20163,-635,1,1,1,0,Laborers,5
+100230,F,Y,N,2,468500.0,Pensioner,Incomplete higher,Civil marriage,Municipal apartment,-10218,-14236,1,0,0,1,Unspecified,4
+100231,F,N,Y,2,146000.0,State servant,Higher education,Separated,Municipal apartment,-23924,-14208,1,1,0,0,Core staff,4
+100232,F,Y,Y,4,138500.0,Commercial associate,Higher education,Single / not married,With parents,-8083,-7478,1,0,1,0,Drivers,6
+100233,F,Y,Y,3,173500.0,Pensioner,Lower secondary,Widow,Municipal apartment,-12819,-14261,1,1,1,1,Managers,5
+100234,F,Y,N,0,75000.0,Commercial associate,Academic degree,Married,With parents,-14376,-11103,1,0,1,1,IT staff,1
+100235,F,Y,Y,0,357500.0,Working,Higher education,Civil marriage,Office apartment,-17009,-11677,1,1,1,1,Accountants,2
+100236,M,N,N,2,396500.0,Student,Academic degree,Separated,Office apartment,-10352,-120,1,1,1,1,Cleaning staff,3
+100237,M,N,N,3,377500.0,Pensioner,Incomplete higher,Civil marriage,Rented apartment,-13172,-2456,1,0,0,1,Cleaning staff,5
+100238,M,N,N,1,182500.0,State servant,Lower secondary,Separated,House / apartment,-13223,-5622,1,0,1,1,IT staff,3
+100239,M,N,Y,1,291000.0,Commercial associate,Incomplete higher,Widow,With parents,-17998,-10722,1,0,0,1,Sales staff,3
+100240,F,N,N,3,349500.0,Pensioner,Lower secondary,Single / not married,Municipal apartment,-8758,-14194,1,0,1,0,IT staff,4
+100241,F,N,Y,3,495500.0,Commercial associate,Higher education,Married,Rented apartment,-20408,-9329,1,1,0,1,Unspecified,4
+100242,F,N,Y,0,210000.0,Working,Secondary / secondary special,Separated,Rented apartment,-13861,-12471,1,0,0,1,Core staff,1
+100243,F,N,N,4,269500.0,State servant,Lower secondary,Single / not married,House / apartment,-24490,-3267,1,1,0,1,IT staff,5
+100244,M,Y,Y,0,405000.0,Pensioner,Incomplete higher,Married,House / apartment,-19568,-8246,1,1,0,0,Laborers,2
+100245,F,N,N,2,401500.0,Commercial associate,Incomplete higher,Separated,Rented apartment,-13174,-2701,1,1,0,0,Sales staff,3
+100246,M,Y,Y,1,237500.0,Working,Lower secondary,Civil marriage,Office apartment,-8592,-9730,1,0,0,0,Laborers,2
+100247,F,N,Y,3,330000.0,Pensioner,Lower secondary,Married,With parents,-7304,-4933,1,1,0,1,Cooking staff,4
+100248,M,Y,N,3,108000.0,Working,Lower secondary,Married,Office apartment,-13545,-12746,1,1,0,1,Unspecified,5
+100249,M,Y,N,2,156000.0,State servant,Incomplete higher,Married,House / apartment,-7417,-11004,1,0,0,1,Managers,3
+100250,M,Y,N,4,379500.0,Commercial associate,Lower secondary,Civil marriage,Rented apartment,-22213,-820,1,0,0,0,Drivers,6
+100251,F,Y,Y,2,485500.0,Working,Secondary / secondary special,Married,With parents,-17769,-5857,1,1,1,0,Accountants,4
+100252,M,N,N,1,283500.0,Pensioner,Lower secondary,Separated,Municipal apartment,-12465,-1852,1,0,0,0,Core staff,3
+100253,F,N,Y,4,362500.0,State servant,Incomplete higher,Widow,House / apartment,-11281,-7914,1,1,0,1,Security staff,5
+100254,F,N,Y,0,410500.0,Student,Academic degree,Widow,With parents,-18085,-8504,1,0,1,0,Security staff,2
+100255,M,Y,Y,3,379000.0,Commercial associate,Academic degree,Separated,Municipal apartment,-12419,-1226,1,1,1,0,Accountants,5
+100256,M,N,N,0,468000.0,Commercial associate,Secondary / secondary special,Separated,Municipal apartment,-21683,-1442,1,1,1,1,Core staff,2
+100257,M,N,N,0,68000.0,Student,Academic degree,Single / not married,House / apartment,-16981,-14583,1,0,1,1,Accountants,1
+100258,F,N,N,1,416500.0,Pensioner,Lower secondary,Single / not married,House / apartment,-14266,-35,1,1,1,1,IT staff,3
+100259,M,Y,N,0,121500.0,State servant,Secondary / secondary special,Civil marriage,Office apartment,-13419,-3072,1,0,1,0,Security staff,1
+100260,M,N,Y,2,374000.0,Student,Secondary / secondary special,Separated,Municipal apartment,-23521,-2205,1,1,0,0,IT staff,4
+100261,F,Y,Y,4,424000.0,Commercial associate,Secondary / secondary special,Separated,Office apartment,-17546,-8259,1,1,1,0,Drivers,6
+100262,F,N,Y,2,120500.0,State servant,Academic degree,Widow,Rented apartment,-24950,-14101,1,1,0,0,Sales staff,4
+100263,M,Y,N,2,413500.0,Working,Incomplete higher,Widow,Municipal apartment,-20679,-11046,1,1,1,0,IT staff,3
+100264,F,Y,Y,0,393000.0,Working,Higher education,Civil marriage,With parents,-16391,-11196,1,1,0,0,Unspecified,2
+100265,M,N,N,1,102000.0,Student,Academic degree,Married,Office apartment,-19743,-3892,1,1,0,1,Medicine staff,3
+100266,M,Y,N,2,153500.0,Student,Lower secondary,Married,Rented apartment,-24911,-12098,1,0,0,1,Security staff,3
+100267,M,Y,Y,0,243000.0,Working,Lower secondary,Civil marriage,Office apartment,-15658,-2131,1,0,1,0,Accountants,2
+100268,M,Y,N,1,355500.0,Working,Academic degree,Civil marriage,Municipal apartment,-18733,-1194,1,1,0,0,IT staff,2
+100269,M,N,N,4,97000.0,Pensioner,Higher education,Married,Rented apartment,-17848,-5911,1,1,0,1,IT staff,5
+100270,F,N,Y,0,378500.0,Student,Academic degree,Married,House / apartment,-17516,-6248,1,0,1,1,IT staff,2
+100271,F,N,N,0,72000.0,Pensioner,Higher education,Civil marriage,Office apartment,-9698,-1572,1,0,0,0,Sales staff,1
+100272,M,Y,N,3,381000.0,Working,Higher education,Single / not married,Municipal apartment,-17869,-620,1,0,0,0,Managers,5
+100273,M,Y,N,4,258500.0,State servant,Lower secondary,Separated,Municipal apartment,-17367,-276,1,1,0,0,Cleaning staff,5
+100274,M,Y,N,4,307000.0,Working,Incomplete higher,Civil marriage,Office apartment,-9834,-4612,1,1,1,1,Cleaning staff,5
+100275,M,Y,Y,3,432000.0,State servant,Academic degree,Civil marriage,With parents,-16766,-11096,1,1,0,0,Core staff,4
+100276,F,Y,N,0,157500.0,Pensioner,Higher education,Separated,Office apartment,-11667,-2637,1,0,0,1,Sales staff,1
+100277,M,N,Y,1,198500.0,Working,Incomplete higher,Single / not married,With parents,-22964,-5420,1,1,0,0,Core staff,3
+100278,M,Y,N,4,298500.0,State servant,Incomplete higher,Widow,Rented apartment,-11993,-9266,1,1,1,1,Managers,5
+100279,M,Y,N,2,191500.0,Pensioner,Higher education,Civil marriage,Municipal apartment,-22166,-7296,1,1,1,1,IT staff,3
+100280,M,N,Y,1,325500.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,-7610,-13919,1,0,1,0,Laborers,3
+100281,F,Y,N,4,250500.0,Commercial associate,Academic degree,Civil marriage,With parents,-22227,-8210,1,0,1,1,IT staff,5
+100282,M,Y,N,1,131500.0,Commercial associate,Academic degree,Widow,With parents,-22843,-5878,1,0,0,1,Sales staff,2
+100283,F,Y,Y,2,392000.0,Commercial associate,Academic degree,Civil marriage,Municipal apartment,-22390,-7448,1,0,0,1,Core staff,4
+100284,M,N,N,2,237000.0,Student,Secondary / secondary special,Widow,Rented apartment,-19331,-14864,1,0,1,1,Accountants,4
+100285,M,Y,N,3,134500.0,Commercial associate,Secondary / secondary special,Widow,Rented apartment,-13930,-2461,1,0,0,1,Cooking staff,4
+100286,F,N,Y,1,296500.0,State servant,Lower secondary,Married,Office apartment,-12283,-10604,1,1,0,0,Laborers,2
+100287,M,Y,Y,4,343000.0,Commercial associate,Secondary / secondary special,Married,Rented apartment,-12899,-8464,1,1,0,1,Core staff,5
+100288,F,N,Y,3,162000.0,State servant,Academic degree,Married,Office apartment,-12959,-10210,1,1,0,1,Security staff,4
+100289,F,N,Y,1,105500.0,Working,Higher education,Widow,Office apartment,-20755,-13541,1,0,0,0,Security staff,2
+100290,M,Y,N,4,387500.0,Commercial associate,Academic degree,Widow,House / apartment,-21139,-8553,1,1,1,0,Unspecified,6
+100291,F,N,N,1,351500.0,Student,Secondary / secondary special,Separated,With parents,-15340,-7817,1,0,0,1,Cooking staff,3
+100292,M,Y,Y,2,345500.0,Student,Secondary / secondary special,Widow,House / apartment,-19288,-10724,1,0,1,1,Accountants,3
+100293,F,N,N,1,487500.0,Student,Lower secondary,Widow,Rented apartment,-16029,-11151,1,1,0,1,IT staff,3
+100294,F,N,N,1,207000.0,Student,Incomplete higher,Separated,With parents,-10902,-12252,1,0,1,0,Core staff,2
+100295,F,N,Y,4,132000.0,State servant,Secondary / secondary special,Single / not married,With parents,-22455,-9834,1,1,0,0,Drivers,5
+100296,M,Y,N,2,255000.0,Student,Academic degree,Civil marriage,Office apartment,-8882,-12674,1,0,1,1,Laborers,3
+100297,F,Y,Y,4,451000.0,Student,Academic degree,Widow,With parents,-12553,-11043,1,0,1,0,Cleaning staff,5
+100298,M,N,N,1,230500.0,State servant,Lower secondary,Widow,With parents,-23965,-251,1,0,0,1,Unspecified,3
+100299,F,Y,Y,2,282500.0,State servant,Academic degree,Single / not married,Rented apartment,-12735,-6670,1,0,0,1,Accountants,3
+100300,F,N,N,4,243000.0,Student,Lower secondary,Married,Rented apartment,-22035,-11167,1,1,0,1,Core staff,6
+100301,F,Y,Y,0,459500.0,Pensioner,Lower secondary,Civil marriage,Office apartment,-24552,-159,1,1,0,1,Core staff,2
+100302,M,Y,N,2,210500.0,Pensioner,Higher education,Widow,Rented apartment,-12989,-12225,1,0,1,0,Sales staff,3
+100303,M,Y,Y,2,477000.0,Commercial associate,Academic degree,Civil marriage,With parents,-10495,-1964,1,0,1,0,IT staff,3
+100304,F,N,N,3,344000.0,Pensioner,Lower secondary,Married,Office apartment,-16183,-6518,1,0,0,0,IT staff,5
+100305,M,N,N,3,490500.0,Commercial associate,Lower secondary,Single / not married,Office apartment,-22075,-5171,1,0,0,0,Medicine staff,4
+100306,F,N,Y,2,330500.0,Pensioner,Higher education,Civil marriage,Municipal apartment,-18242,-5995,1,0,1,1,Sales staff,4
+100307,F,N,N,2,280500.0,Commercial associate,Academic degree,Married,Office apartment,-14489,-13339,1,0,1,0,IT staff,4
+100308,M,Y,Y,3,292000.0,Working,Higher education,Separated,Municipal apartment,-11406,-14635,1,1,1,1,Drivers,4
+100309,M,Y,Y,3,160000.0,Pensioner,Lower secondary,Single / not married,Municipal apartment,-17966,-4256,1,1,1,1,Accountants,4
+100310,M,N,Y,3,345000.0,Student,Academic degree,Married,Rented apartment,-18636,-5326,1,1,1,0,Medicine staff,5
+100311,M,Y,N,3,265500.0,Student,Academic degree,Separated,House / apartment,-9592,-2654,1,1,0,1,Accountants,5
+100312,F,N,N,2,449500.0,Pensioner,Academic degree,Widow,Municipal apartment,-20565,-2741,1,0,0,0,Unspecified,3
+100313,M,Y,Y,2,253000.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-24971,-881,1,0,1,0,Core staff,4
+100314,M,Y,N,4,208000.0,Commercial associate,Higher education,Civil marriage,Municipal apartment,-11142,-2150,1,0,0,0,Cleaning staff,6
+100315,F,N,N,2,330500.0,State servant,Higher education,Widow,With parents,-21960,-10339,1,1,1,1,Security staff,3
+100316,F,N,N,0,261000.0,Pensioner,Higher education,Civil marriage,House / apartment,-7003,-8574,1,0,1,1,Security staff,1
+100317,F,N,Y,3,442000.0,State servant,Incomplete higher,Widow,With parents,-7236,-8981,1,1,0,1,IT staff,5
+100318,M,Y,N,3,474000.0,State servant,Higher education,Civil marriage,House / apartment,-20835,-10245,1,0,1,1,Cleaning staff,5
+100319,M,Y,Y,3,119500.0,Pensioner,Secondary / secondary special,Separated,Office apartment,-21836,-4458,1,1,0,1,Laborers,4
+100320,M,Y,Y,0,194000.0,Pensioner,Higher education,Separated,House / apartment,-14628,-1477,1,0,0,1,Sales staff,2
+100321,F,N,N,3,287000.0,Working,Incomplete higher,Single / not married,With parents,-8836,-4366,1,1,0,1,Managers,4
+100322,F,Y,Y,2,443000.0,Commercial associate,Lower secondary,Separated,With parents,-8098,-3263,1,1,0,0,Security staff,4
+100323,F,Y,Y,2,431000.0,Student,Academic degree,Single / not married,Rented apartment,-22768,-10461,1,1,0,1,Laborers,3
+100324,M,N,N,0,57500.0,Commercial associate,Incomplete higher,Widow,House / apartment,-19969,-12929,1,0,0,0,Cooking staff,2
+100325,M,N,Y,4,177000.0,Commercial associate,Lower secondary,Single / not married,Office apartment,-18089,-12444,1,0,0,1,Cleaning staff,5
+100326,M,Y,N,4,169000.0,Pensioner,Academic degree,Civil marriage,Municipal apartment,-13323,-349,1,1,1,0,Drivers,5
+100327,F,N,N,3,147000.0,Student,Higher education,Widow,Rented apartment,-17606,-11999,1,1,1,0,Core staff,4
+100328,F,N,N,3,282000.0,Working,Academic degree,Separated,With parents,-7613,-10153,1,1,0,1,Unspecified,4
+100329,F,Y,N,4,442000.0,Student,Higher education,Widow,Rented apartment,-17570,-6714,1,1,0,0,IT staff,5
+100330,M,Y,Y,0,153000.0,Working,Lower secondary,Married,House / apartment,-8042,-9355,1,1,1,1,Laborers,2
+100331,M,Y,Y,1,385500.0,State servant,Secondary / secondary special,Separated,House / apartment,-18826,-9142,1,1,1,0,Cooking staff,3
+100332,M,Y,N,4,89500.0,Commercial associate,Academic degree,Single / not married,House / apartment,-14569,-8710,1,1,0,0,IT staff,5
+100333,M,N,Y,4,442000.0,Student,Incomplete higher,Separated,Municipal apartment,-10411,-2733,1,0,1,1,Cleaning staff,5
+100334,F,N,N,4,331500.0,Pensioner,Incomplete higher,Separated,Municipal apartment,-17598,-9968,1,0,0,1,IT staff,6
+100335,F,N,N,2,50000.0,Working,Incomplete higher,Widow,House / apartment,-23961,-2213,1,1,0,1,Sales staff,3
+100336,M,N,Y,2,98000.0,Working,Lower secondary,Civil marriage,With parents,-11535,-4341,1,1,0,0,Drivers,4
+100337,F,Y,Y,0,420000.0,Pensioner,Lower secondary,Married,Municipal apartment,-10124,-9752,1,1,0,1,Core staff,1
+100338,F,N,N,2,494000.0,Working,Higher education,Widow,House / apartment,-19533,-886,1,1,0,1,IT staff,3
+100339,M,Y,Y,2,394500.0,State servant,Lower secondary,Widow,Office apartment,-23538,-1475,1,0,1,1,Medicine staff,3
+100340,F,Y,N,1,342500.0,Working,Academic degree,Separated,Rented apartment,-9787,-6529,1,1,0,0,Security staff,2
+100341,F,Y,Y,3,174000.0,Working,Incomplete higher,Separated,Rented apartment,-9935,-1843,1,1,1,1,Accountants,4
+100342,F,Y,N,2,136500.0,Pensioner,Academic degree,Separated,Office apartment,-11778,-7216,1,0,0,0,Cleaning staff,4
+100343,M,Y,Y,1,174000.0,Student,Higher education,Civil marriage,House / apartment,-18248,-11367,1,0,1,1,Security staff,2
+100344,M,Y,Y,2,329500.0,Student,Incomplete higher,Widow,Municipal apartment,-11631,-11388,1,0,1,0,Drivers,3
+100345,F,Y,N,0,77000.0,State servant,Secondary / secondary special,Single / not married,Municipal apartment,-15890,-10862,1,1,0,0,Drivers,2
+100346,F,Y,N,1,298000.0,Student,Academic degree,Single / not married,With parents,-13516,-8202,1,1,0,0,Sales staff,3
+100347,F,N,Y,2,59000.0,Pensioner,Incomplete higher,Civil marriage,Rented apartment,-14739,-8212,1,1,0,1,Medicine staff,3
+100348,F,Y,Y,4,224500.0,State servant,Higher education,Single / not married,Municipal apartment,-24062,-11108,1,0,1,0,Cooking staff,5
+100349,F,N,N,3,327500.0,Commercial associate,Higher education,Married,Office apartment,-24739,-11207,1,0,0,1,Unspecified,4
+100350,M,Y,N,3,84500.0,Student,Academic degree,Single / not married,With parents,-17407,-13754,1,0,0,1,Medicine staff,5
+100351,F,N,Y,2,448500.0,Commercial associate,Secondary / secondary special,Married,With parents,-7858,-12491,1,1,0,0,Sales staff,3
+100352,M,N,Y,2,307000.0,Student,Lower secondary,Civil marriage,With parents,-19696,-8051,1,1,0,0,Sales staff,3
+100353,F,Y,N,0,261000.0,Commercial associate,Higher education,Married,House / apartment,-12802,-7197,1,1,1,1,Sales staff,2
+100354,M,N,N,3,251500.0,Student,Academic degree,Widow,Office apartment,-24210,-10508,1,0,0,1,Security staff,4
+100355,F,Y,N,1,314000.0,Working,Higher education,Civil marriage,Municipal apartment,-20042,-14489,1,1,1,1,Managers,3
+100356,M,Y,N,2,474500.0,State servant,Secondary / secondary special,Widow,House / apartment,-12890,-12758,1,0,1,1,Accountants,4
+100357,M,N,Y,0,282500.0,Working,Incomplete higher,Civil marriage,With parents,-11048,-1494,1,0,1,1,Core staff,2
+100358,M,N,N,4,72000.0,Commercial associate,Incomplete higher,Widow,With parents,-12312,-14234,1,0,0,0,Medicine staff,6
+100359,F,N,Y,2,110000.0,Commercial associate,Higher education,Single / not married,Office apartment,-15293,-200,1,1,1,1,IT staff,3
+100360,F,Y,Y,4,351000.0,State servant,Lower secondary,Separated,Municipal apartment,-9601,-9850,1,0,0,1,Cooking staff,5
+100361,M,Y,Y,0,384000.0,Pensioner,Secondary / secondary special,Married,House / apartment,-16779,-5424,1,0,0,0,Medicine staff,1
+100362,F,Y,N,1,433500.0,Student,Incomplete higher,Single / not married,House / apartment,-16807,-5289,1,1,1,0,Medicine staff,2
+100363,F,Y,Y,2,405500.0,Pensioner,Incomplete higher,Widow,Municipal apartment,-24191,-3438,1,0,0,0,Cooking staff,3
+100364,F,N,N,3,182500.0,Student,Academic degree,Widow,Rented apartment,-11250,-10064,1,1,1,1,Managers,4
+100365,M,Y,Y,2,62000.0,State servant,Secondary / secondary special,Married,Office apartment,-20586,-6783,1,0,1,1,IT staff,3
+100366,M,N,N,0,454500.0,Working,Incomplete higher,Civil marriage,Office apartment,-17614,-12567,1,0,0,1,Accountants,2
+100367,M,Y,Y,4,219000.0,Pensioner,Lower secondary,Separated,House / apartment,-11448,-7888,1,0,1,1,Security staff,6
+100368,F,N,Y,0,156500.0,Student,Incomplete higher,Civil marriage,House / apartment,-11892,-4595,1,0,1,1,Cleaning staff,1
+100369,F,Y,Y,4,492500.0,Pensioner,Incomplete higher,Single / not married,Rented apartment,-20561,-1422,1,1,0,1,Security staff,6
+100370,F,Y,Y,1,241500.0,Working,Higher education,Single / not married,Municipal apartment,-23580,-408,1,1,0,0,Accountants,3
+100371,F,N,Y,4,443500.0,Working,Academic degree,Married,With parents,-8197,-7526,1,1,0,0,Drivers,5
+100372,M,N,N,4,73500.0,Working,Academic degree,Civil marriage,House / apartment,-17228,-10466,1,0,1,0,Sales staff,6
+100373,F,N,Y,2,189500.0,Commercial associate,Higher education,Civil marriage,House / apartment,-7499,-10206,1,0,0,1,IT staff,4
+100374,M,N,Y,2,137500.0,Working,Incomplete higher,Widow,Rented apartment,-24713,-7268,1,0,0,0,Security staff,3
+100375,F,Y,Y,0,268000.0,State servant,Higher education,Widow,Office apartment,-21609,-10097,1,1,1,1,Sales staff,1
+100376,M,Y,N,3,99500.0,State servant,Incomplete higher,Separated,Municipal apartment,-14592,-3666,1,0,1,1,Medicine staff,4
+100377,F,N,N,2,65000.0,Working,Lower secondary,Single / not married,Rented apartment,-22684,-7556,1,0,1,1,Cooking staff,3
+100378,M,N,Y,4,216500.0,Student,Secondary / secondary special,Civil marriage,Office apartment,-22105,-6566,1,1,0,0,IT staff,5
+100379,F,Y,N,3,156500.0,Student,Lower secondary,Separated,Office apartment,-18213,-8921,1,0,0,0,Unspecified,5
+100380,F,N,Y,0,470500.0,State servant,Higher education,Civil marriage,Municipal apartment,-9280,-9801,1,0,1,1,Security staff,1
+100381,M,Y,Y,0,437500.0,Commercial associate,Higher education,Separated,Office apartment,-16551,-6389,1,1,0,0,Cleaning staff,2
+100382,F,N,N,2,95500.0,Student,Secondary / secondary special,Widow,Office apartment,-20244,-13887,1,0,1,0,Accountants,3
+100383,F,Y,N,0,493000.0,Working,Higher education,Separated,Office apartment,-19919,-10243,1,1,1,1,Medicine staff,2
+100384,M,Y,N,4,121000.0,Commercial associate,Academic degree,Separated,Rented apartment,-20671,-2527,1,1,0,0,Laborers,5
+100385,M,N,N,0,119500.0,Working,Higher education,Separated,Municipal apartment,-20949,-10211,1,0,1,1,IT staff,2
+100386,F,Y,Y,3,267000.0,Student,Secondary / secondary special,Widow,Municipal apartment,-14757,-11667,1,1,1,1,Laborers,4
+100387,F,N,Y,4,347000.0,State servant,Secondary / secondary special,Married,Office apartment,-16156,-7617,1,0,0,0,Security staff,5
+100388,F,Y,N,4,323500.0,Working,Lower secondary,Separated,Office apartment,-22375,-9403,1,1,1,1,Drivers,6
+100389,M,N,N,1,81000.0,State servant,Academic degree,Married,Office apartment,-8691,-10753,1,1,0,1,Security staff,2
+100390,M,N,N,1,117500.0,Student,Incomplete higher,Civil marriage,Rented apartment,-7465,-12147,1,0,0,0,Cleaning staff,3
+100391,M,N,Y,2,298000.0,Commercial associate,Academic degree,Single / not married,Rented apartment,-9765,-2376,1,0,1,1,Medicine staff,3
+100392,M,Y,N,3,77500.0,Pensioner,Secondary / secondary special,Single / not married,With parents,-22204,-6533,1,1,1,1,Unspecified,4
+100393,F,N,N,3,124000.0,Student,Lower secondary,Single / not married,Rented apartment,-21706,-6258,1,1,0,0,IT staff,5
+100394,F,N,N,3,186500.0,Working,Incomplete higher,Widow,Municipal apartment,-22109,-12667,1,0,0,1,Cleaning staff,4
+100395,M,Y,Y,2,56000.0,State servant,Secondary / secondary special,Widow,House / apartment,-21612,-5759,1,0,1,1,Sales staff,3
+100396,M,Y,Y,0,356500.0,Working,Secondary / secondary special,Single / not married,Office apartment,-11256,-6159,1,0,0,0,Drivers,2
+100397,M,N,N,3,443500.0,State servant,Incomplete higher,Civil marriage,With parents,-9424,-4543,1,0,1,1,Accountants,4
+100398,F,Y,N,2,85500.0,State servant,Higher education,Widow,Municipal apartment,-12847,-10575,1,1,0,0,IT staff,4
+100399,M,N,N,1,102500.0,Working,Secondary / secondary special,Single / not married,Office apartment,-15211,-12734,1,1,0,1,Managers,2
+100400,F,N,Y,0,408000.0,Pensioner,Lower secondary,Widow,House / apartment,-23888,-11593,1,1,1,1,Medicine staff,1
+100401,M,Y,N,4,402500.0,State servant,Secondary / secondary special,Widow,Office apartment,-18761,-5463,1,1,1,0,Cleaning staff,5
+100402,F,Y,N,2,439000.0,Pensioner,Higher education,Married,Office apartment,-8288,-6294,1,0,1,1,Core staff,4
+100403,M,N,Y,3,121500.0,Working,Higher education,Single / not married,Office apartment,-14814,-8015,1,1,0,1,Security staff,5
+100404,M,N,Y,0,222500.0,Working,Lower secondary,Single / not married,With parents,-24141,-7509,1,0,0,0,Laborers,1
+100405,M,N,Y,3,174000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-17070,-13446,1,0,1,0,Cooking staff,4
+100406,M,N,Y,0,82000.0,Commercial associate,Lower secondary,Civil marriage,Municipal apartment,-17624,-1979,1,0,1,0,Laborers,1
+100407,M,Y,N,2,122000.0,State servant,Higher education,Civil marriage,Office apartment,-12406,-7187,1,0,0,0,Core staff,4
+100408,M,N,Y,1,53000.0,Working,Higher education,Single / not married,Office apartment,-16297,-6819,1,1,0,0,Managers,3
+100409,F,N,Y,4,139000.0,Student,Secondary / secondary special,Widow,With parents,-23380,-10027,1,0,1,1,Medicine staff,5
+100410,M,Y,Y,4,321000.0,Working,Academic degree,Civil marriage,Office apartment,-23631,-3592,1,1,0,1,Laborers,5
+100411,M,N,N,0,140000.0,Commercial associate,Secondary / secondary special,Single / not married,Rented apartment,-16340,-3433,1,1,1,1,Cooking staff,2
+100412,M,Y,Y,0,130500.0,Working,Lower secondary,Widow,House / apartment,-9321,-14664,1,0,1,1,Medicine staff,1
+100413,M,Y,N,2,166500.0,Working,Higher education,Separated,With parents,-19305,-14604,1,0,0,1,Cooking staff,4
+100414,F,Y,Y,0,362000.0,State servant,Higher education,Separated,Rented apartment,-11469,-7499,1,0,1,1,Sales staff,2
+100415,M,Y,N,1,119500.0,Working,Lower secondary,Separated,Municipal apartment,-12609,-12457,1,1,0,1,Cooking staff,2
+100416,M,Y,Y,4,260500.0,Student,Lower secondary,Married,Office apartment,-22515,-13713,1,1,1,0,Unspecified,6
+100417,M,N,N,1,346500.0,Commercial associate,Academic degree,Married,Office apartment,-7166,-6844,1,0,0,1,Unspecified,2
+100418,F,N,Y,3,281500.0,State servant,Higher education,Single / not married,Office apartment,-7407,-11356,1,1,0,0,Accountants,5
+100419,M,Y,N,1,392500.0,Pensioner,Higher education,Separated,Office apartment,-7799,-7452,1,1,0,1,Managers,3
+100420,M,Y,N,3,403500.0,Pensioner,Academic degree,Single / not married,Rented apartment,-20955,-12335,1,1,0,0,Cooking staff,5
+100421,F,Y,Y,0,246000.0,Pensioner,Lower secondary,Widow,House / apartment,-18979,-6003,1,0,0,0,Managers,2
+100422,M,N,Y,1,435500.0,Commercial associate,Incomplete higher,Civil marriage,Rented apartment,-23500,-11144,1,1,1,0,Core staff,3
+100423,F,N,Y,2,290500.0,Student,Academic degree,Civil marriage,Municipal apartment,-19063,-13105,1,0,0,1,Core staff,3
+100424,M,N,Y,3,105500.0,Commercial associate,Incomplete higher,Single / not married,With parents,-23263,-2465,1,0,0,1,Medicine staff,4
+100425,F,N,N,3,427500.0,Working,Incomplete higher,Married,House / apartment,-7722,-14283,1,0,1,1,Cooking staff,5
+100426,F,N,N,2,205500.0,Student,Higher education,Civil marriage,With parents,-15519,-3715,1,1,1,1,Laborers,3
+100427,F,N,Y,2,366500.0,Commercial associate,Academic degree,Civil marriage,With parents,-12746,-13751,1,0,0,0,Core staff,3
+100428,M,N,N,2,239000.0,Commercial associate,Higher education,Widow,House / apartment,-17385,-5633,1,0,1,1,IT staff,3
+100429,F,Y,Y,4,257000.0,State servant,Higher education,Separated,Rented apartment,-12113,-70,1,1,1,1,Drivers,5
+100430,F,N,Y,4,424500.0,State servant,Secondary / secondary special,Married,Office apartment,-10829,-5047,1,0,1,0,Security staff,6
+100431,F,Y,Y,0,348500.0,Student,Higher education,Civil marriage,With parents,-7738,-1369,1,1,0,1,Sales staff,2
+100432,M,N,N,2,125500.0,State servant,Incomplete higher,Separated,Rented apartment,-7399,-4663,1,1,1,1,Security staff,3
+100433,F,N,N,1,197500.0,Commercial associate,Lower secondary,Separated,With parents,-9820,-2353,1,0,1,1,IT staff,3
+100434,F,Y,Y,0,259500.0,Pensioner,Lower secondary,Married,Office apartment,-22142,-11636,1,0,0,0,Medicine staff,2
+100435,F,Y,N,4,477000.0,Student,Incomplete higher,Separated,Office apartment,-22186,-3678,1,0,0,0,Drivers,6
+100436,M,N,N,3,141500.0,State servant,Higher education,Single / not married,House / apartment,-16083,-8078,1,0,1,1,Cooking staff,5
+100437,F,Y,N,2,312000.0,Student,Secondary / secondary special,Civil marriage,With parents,-8917,-2394,1,1,1,0,Accountants,3
+100438,F,N,N,0,375500.0,Pensioner,Secondary / secondary special,Civil marriage,Rented apartment,-24354,-10468,1,0,0,0,Core staff,1
+100439,F,N,N,4,188500.0,Pensioner,Secondary / secondary special,Widow,Office apartment,-18522,-13489,1,0,0,0,IT staff,6
+100440,F,N,N,2,133000.0,Working,Higher education,Married,Office apartment,-14245,-13624,1,0,0,1,Security staff,3
+100441,M,Y,N,0,228000.0,Pensioner,Incomplete higher,Married,Municipal apartment,-24141,-12510,1,1,0,1,Laborers,1
+100442,M,Y,Y,1,207000.0,Commercial associate,Higher education,Married,House / apartment,-20920,-11318,1,0,0,0,Security staff,3
+100443,M,Y,Y,0,456000.0,Student,Academic degree,Single / not married,Municipal apartment,-10896,-14885,1,1,0,0,Drivers,1
+100444,M,Y,Y,0,144500.0,Pensioner,Secondary / secondary special,Single / not married,With parents,-16089,-9498,1,1,1,0,IT staff,1
+100445,M,Y,Y,4,320500.0,Commercial associate,Higher education,Civil marriage,With parents,-24600,-70,1,0,0,1,Accountants,5
+100446,M,Y,N,3,244000.0,State servant,Higher education,Widow,With parents,-20355,-1848,1,1,0,1,Core staff,4
+100447,F,N,Y,3,92000.0,Pensioner,Lower secondary,Single / not married,Municipal apartment,-16293,-7486,1,1,1,0,IT staff,5
+100448,F,Y,Y,2,480500.0,State servant,Incomplete higher,Married,House / apartment,-23110,-11011,1,0,1,1,IT staff,3
+100449,M,N,N,0,405500.0,Student,Secondary / secondary special,Married,House / apartment,-18918,-3261,1,1,0,1,Core staff,1
+100450,F,N,N,3,437000.0,State servant,Incomplete higher,Separated,Office apartment,-20252,-7938,1,1,0,1,Core staff,4
+100451,F,N,Y,2,371500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-9235,-8161,1,0,0,1,Cooking staff,4
+100452,F,Y,Y,1,388000.0,Student,Lower secondary,Separated,With parents,-16619,-10847,1,1,1,1,IT staff,3
+100453,M,Y,N,4,110500.0,State servant,Lower secondary,Civil marriage,Municipal apartment,-21501,-7531,1,0,0,0,IT staff,6
+100454,F,N,Y,1,209500.0,State servant,Lower secondary,Single / not married,Office apartment,-23074,-10814,1,1,1,0,IT staff,2
+100455,F,N,N,3,365500.0,Pensioner,Incomplete higher,Civil marriage,House / apartment,-7922,-9674,1,0,0,1,Accountants,4
+100456,F,Y,N,2,226500.0,Pensioner,Lower secondary,Civil marriage,House / apartment,-15002,-4056,1,0,1,0,Unspecified,3
+100457,M,N,Y,2,60000.0,Student,Incomplete higher,Single / not married,Municipal apartment,-20843,-9306,1,1,1,0,Unspecified,4
+100458,M,N,N,4,342000.0,State servant,Incomplete higher,Widow,House / apartment,-23002,-1639,1,0,1,1,IT staff,6
+100459,F,N,N,1,153000.0,State servant,Secondary / secondary special,Widow,With parents,-16416,-4344,1,0,1,1,Sales staff,2
+100460,M,N,N,4,84000.0,Student,Academic degree,Separated,Municipal apartment,-13872,-5690,1,0,1,1,Medicine staff,6
+100461,F,N,N,1,369500.0,Student,Lower secondary,Widow,With parents,-7609,-10286,1,0,1,0,Cleaning staff,3
+100462,F,Y,Y,2,236500.0,State servant,Higher education,Married,With parents,-16839,-13830,1,1,1,1,Core staff,3
+100463,F,N,Y,3,181000.0,Student,Higher education,Separated,With parents,-10721,-2456,1,0,0,0,Drivers,5
+100464,F,N,Y,3,153000.0,Commercial associate,Incomplete higher,Married,House / apartment,-15467,-12937,1,1,0,0,Unspecified,5
+100465,M,Y,N,0,358000.0,Pensioner,Secondary / secondary special,Separated,Rented apartment,-9959,-6502,1,0,0,0,Cooking staff,1
+100466,F,N,Y,4,171500.0,Student,Secondary / secondary special,Civil marriage,Rented apartment,-19777,-13202,1,0,1,0,Managers,5
+100467,M,N,N,1,259000.0,Pensioner,Academic degree,Single / not married,Municipal apartment,-24480,-6139,1,0,1,1,Security staff,2
+100468,M,N,N,2,416000.0,Pensioner,Incomplete higher,Single / not married,Office apartment,-8140,-13786,1,0,0,1,IT staff,4
+100469,F,Y,Y,2,489000.0,State servant,Lower secondary,Single / not married,Municipal apartment,-15373,-4929,1,0,0,1,Sales staff,3
+100470,F,N,Y,3,190000.0,Working,Lower secondary,Separated,Municipal apartment,-17902,-11753,1,1,0,0,Unspecified,5
+100471,M,N,N,4,358000.0,Student,Incomplete higher,Separated,House / apartment,-8707,-10508,1,0,1,0,Laborers,6
+100472,F,N,Y,1,106500.0,Commercial associate,Higher education,Widow,With parents,-20445,-12986,1,1,1,1,Unspecified,2
+100473,M,N,N,2,151500.0,Working,Lower secondary,Civil marriage,With parents,-19894,-14358,1,1,0,0,Laborers,3
+100474,F,Y,N,0,409000.0,Commercial associate,Secondary / secondary special,Separated,Office apartment,-21054,-9836,1,1,0,0,Accountants,1
+100475,M,Y,N,4,445500.0,State servant,Lower secondary,Single / not married,With parents,-13656,-3121,1,1,1,1,Medicine staff,5
+100476,M,Y,N,3,422000.0,Commercial associate,Lower secondary,Married,Municipal apartment,-11782,-471,1,1,1,0,Cooking staff,5
+100477,F,N,Y,1,55000.0,State servant,Higher education,Civil marriage,Municipal apartment,-13953,-11687,1,1,1,1,Core staff,2
+100478,M,Y,N,4,170000.0,State servant,Incomplete higher,Widow,Office apartment,-8491,-87,1,1,1,1,Medicine staff,6
+100479,M,Y,N,1,136500.0,Student,Lower secondary,Civil marriage,Municipal apartment,-11322,-1468,1,1,1,0,Drivers,2
+100480,M,Y,N,2,496000.0,Pensioner,Incomplete higher,Separated,Rented apartment,-15625,-10042,1,1,1,1,Managers,4
+100481,M,N,Y,3,146500.0,Commercial associate,Secondary / secondary special,Married,With parents,-8175,-7704,1,1,0,1,Medicine staff,4
+100482,M,N,N,3,413000.0,Student,Lower secondary,Separated,Municipal apartment,-10686,-13858,1,0,0,1,Core staff,4
+100483,M,Y,N,2,338000.0,Student,Higher education,Widow,House / apartment,-24236,-12564,1,0,1,0,Sales staff,4
+100484,F,Y,N,0,398500.0,Working,Lower secondary,Civil marriage,Office apartment,-10475,-13713,1,1,0,0,Core staff,2
+100485,F,N,Y,3,218500.0,Working,Academic degree,Separated,Rented apartment,-11237,-3463,1,0,1,1,Laborers,4
+100486,F,Y,N,4,180500.0,Commercial associate,Higher education,Separated,House / apartment,-7672,-13964,1,0,0,1,Medicine staff,6
+100487,M,N,N,1,460000.0,State servant,Incomplete higher,Widow,With parents,-18765,-10903,1,0,1,0,Security staff,3
+100488,F,N,N,3,96000.0,State servant,Incomplete higher,Widow,With parents,-21224,-10333,1,1,0,0,IT staff,5
+100489,M,Y,N,3,319500.0,Student,Secondary / secondary special,Civil marriage,Municipal apartment,-21331,-1297,1,1,1,0,Managers,5
+100490,F,N,Y,1,332000.0,Working,Secondary / secondary special,Widow,House / apartment,-23733,-6961,1,1,0,1,Cleaning staff,3
+100491,F,Y,Y,2,108000.0,State servant,Higher education,Married,Municipal apartment,-8483,-1364,1,1,1,1,Cooking staff,4
+100492,F,N,Y,3,158000.0,Commercial associate,Secondary / secondary special,Widow,Rented apartment,-10484,-7107,1,0,0,1,Core staff,4
+100493,F,N,N,1,494500.0,Student,Lower secondary,Civil marriage,Office apartment,-18820,-11315,1,1,1,0,Managers,2
+100494,M,Y,Y,0,406000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-11756,-10645,1,0,1,0,Core staff,2
+100495,M,N,N,3,61000.0,Working,Higher education,Married,Municipal apartment,-22894,-7724,1,0,1,0,Sales staff,5
+100496,F,Y,N,4,54000.0,Working,Lower secondary,Separated,Municipal apartment,-16528,-606,1,1,1,1,IT staff,6
+100497,M,Y,N,1,345000.0,Pensioner,Academic degree,Single / not married,Rented apartment,-20668,-14567,1,1,0,1,Cooking staff,3
+100498,F,Y,Y,3,197000.0,Commercial associate,Lower secondary,Civil marriage,Municipal apartment,-14605,-8317,1,0,1,1,Managers,5
+100499,F,N,N,3,459000.0,Commercial associate,Academic degree,Married,Rented apartment,-9824,-10929,1,1,0,0,Sales staff,4
+100500,F,Y,N,4,302500.0,Pensioner,Higher education,Married,Office apartment,-8541,-297,1,1,1,1,Cleaning staff,5
+100501,M,Y,N,1,270000.0,Working,Academic degree,Married,House / apartment,-14343,-7968,1,1,1,1,Laborers,3
+100502,M,Y,N,1,459000.0,State servant,Secondary / secondary special,Single / not married,Office apartment,-10338,-13494,1,0,0,0,Cleaning staff,2
+100503,F,Y,N,1,412500.0,State servant,Academic degree,Separated,House / apartment,-12055,-10601,1,1,1,0,Core staff,2
+100504,F,Y,Y,3,477000.0,State servant,Incomplete higher,Civil marriage,Office apartment,-12611,-1396,1,1,1,1,Accountants,4
+100505,F,Y,Y,1,460500.0,State servant,Lower secondary,Separated,Municipal apartment,-23913,-13018,1,1,0,1,Managers,2
+100506,M,Y,N,4,211000.0,State servant,Higher education,Separated,House / apartment,-19886,-12438,1,0,0,0,Cleaning staff,6
+100507,F,N,N,3,226000.0,Working,Incomplete higher,Widow,Office apartment,-11812,-11473,1,1,1,0,IT staff,5
+100508,F,Y,N,2,93000.0,Working,Academic degree,Civil marriage,Municipal apartment,-11128,-8527,1,1,0,0,IT staff,4
+100509,F,Y,Y,4,64000.0,Student,Academic degree,Civil marriage,With parents,-16959,-11903,1,1,0,0,Accountants,6
+100510,F,Y,Y,4,437000.0,Working,Lower secondary,Civil marriage,Office apartment,-7170,-7424,1,1,0,0,Accountants,6
+100511,M,N,Y,2,103500.0,Pensioner,Academic degree,Widow,With parents,-18838,-7443,1,0,0,1,Medicine staff,3
+100512,M,N,Y,0,293500.0,Commercial associate,Lower secondary,Single / not married,Rented apartment,-24244,-6598,1,1,1,1,Cleaning staff,2
+100513,F,N,Y,3,123500.0,Student,Higher education,Separated,Municipal apartment,-11239,-11542,1,0,0,1,Security staff,4
+100514,F,Y,N,1,106000.0,Working,Incomplete higher,Widow,Rented apartment,-8319,-8565,1,0,0,1,Drivers,3
+100515,F,N,Y,2,455000.0,Commercial associate,Higher education,Widow,Municipal apartment,-8594,-14651,1,1,1,0,Managers,4
+100516,M,N,Y,0,495500.0,Working,Lower secondary,Separated,Office apartment,-17148,-9269,1,1,1,1,Security staff,1
+100517,F,N,N,1,126000.0,Pensioner,Secondary / secondary special,Widow,Office apartment,-20422,-6344,1,0,1,1,IT staff,2
+100518,F,Y,Y,3,412000.0,Working,Academic degree,Civil marriage,Office apartment,-11056,-10549,1,0,0,0,Cooking staff,4
+100519,M,Y,Y,3,59500.0,Pensioner,Higher education,Married,Office apartment,-21556,-1386,1,1,1,0,Security staff,4
+100520,F,Y,N,2,62000.0,Student,Incomplete higher,Separated,Rented apartment,-9982,-1878,1,0,0,1,Managers,3
+100521,M,Y,N,2,258500.0,Commercial associate,Secondary / secondary special,Widow,Rented apartment,-12946,-445,1,0,1,1,Core staff,4
+100522,F,N,N,1,242000.0,Working,Secondary / secondary special,Married,With parents,-14749,-8076,1,1,0,1,Laborers,3
+100523,F,Y,N,3,64500.0,State servant,Higher education,Single / not married,Rented apartment,-10326,-4035,1,0,1,1,Security staff,4
+100524,M,Y,N,4,326500.0,Commercial associate,Higher education,Widow,Municipal apartment,-21802,-684,1,0,1,1,Cleaning staff,5
+100525,M,N,N,0,356000.0,Pensioner,Lower secondary,Civil marriage,With parents,-23722,-4609,1,0,0,0,Drivers,1
+100526,M,Y,N,3,499500.0,State servant,Higher education,Widow,Office apartment,-17430,-14482,1,1,1,1,Drivers,4
+100527,F,Y,N,2,356500.0,Pensioner,Secondary / secondary special,Married,House / apartment,-22614,-70,1,0,0,1,IT staff,4
+100528,M,Y,Y,3,476000.0,State servant,Secondary / secondary special,Civil marriage,Municipal apartment,-18729,-6336,1,0,0,0,Security staff,5
+100529,F,Y,Y,1,430000.0,Working,Incomplete higher,Civil marriage,With parents,-9948,-13373,1,1,0,0,Security staff,3
+100530,F,N,Y,0,53500.0,Commercial associate,Lower secondary,Single / not married,Rented apartment,-23394,-8093,1,0,0,0,Core staff,1
+100531,M,N,Y,0,317500.0,Pensioner,Higher education,Single / not married,Office apartment,-15287,-11152,1,1,0,1,Cleaning staff,1
+100532,F,N,N,2,112000.0,Student,Lower secondary,Separated,Rented apartment,-23949,-12435,1,0,0,0,Drivers,4
+100533,F,N,Y,4,250500.0,Commercial associate,Incomplete higher,Single / not married,Office apartment,-7831,-12082,1,0,1,0,Sales staff,5
+100534,F,N,Y,1,370500.0,Working,Secondary / secondary special,Separated,Municipal apartment,-7787,-9708,1,1,1,0,Core staff,3
+100535,F,Y,N,1,316000.0,Commercial associate,Secondary / secondary special,Widow,Office apartment,-21369,-12518,1,0,1,0,Core staff,2
+100536,F,N,Y,0,450500.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-16878,-10006,1,1,0,0,Cleaning staff,1
+100537,M,N,N,4,255500.0,Working,Academic degree,Separated,With parents,-7347,-7428,1,1,1,1,Cooking staff,5
+100538,M,N,N,2,350500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-9213,-9713,1,0,0,1,Accountants,4
+100539,F,Y,Y,3,120000.0,Working,Secondary / secondary special,Married,Rented apartment,-21281,-8407,1,1,1,0,Managers,5
+100540,F,N,N,2,54000.0,Student,Academic degree,Married,House / apartment,-14778,-8308,1,0,1,1,Sales staff,3
+100541,M,N,Y,1,391500.0,State servant,Lower secondary,Widow,Rented apartment,-17998,-10094,1,1,1,1,Managers,2
+100542,M,N,Y,3,51500.0,Commercial associate,Higher education,Separated,Office apartment,-13984,-3916,1,1,1,1,Sales staff,5
+100543,M,N,Y,1,87500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,-11666,-4760,1,1,0,1,Laborers,2
+100544,M,N,Y,1,162000.0,Pensioner,Higher education,Civil marriage,Office apartment,-15059,-2925,1,0,0,0,Drivers,2
+100545,M,N,Y,0,223000.0,Commercial associate,Incomplete higher,Separated,With parents,-19112,-13262,1,1,0,1,Unspecified,1
+100546,M,Y,Y,0,148000.0,Student,Lower secondary,Civil marriage,Rented apartment,-21075,-10422,1,0,0,0,IT staff,2
+100547,F,Y,Y,1,372000.0,Pensioner,Higher education,Widow,Office apartment,-23023,-3428,1,0,1,0,Managers,3
+100548,F,N,N,4,141500.0,Pensioner,Incomplete higher,Widow,Municipal apartment,-23213,-7762,1,1,1,0,Sales staff,5
+100549,F,Y,N,1,161500.0,Pensioner,Lower secondary,Separated,Office apartment,-12151,-13802,1,1,1,0,Managers,2
+100550,F,N,Y,2,348500.0,Working,Lower secondary,Widow,Office apartment,-18022,-6981,1,1,1,1,Medicine staff,4
+100551,F,N,N,3,62500.0,Commercial associate,Lower secondary,Married,Rented apartment,-9486,-5883,1,0,1,0,Drivers,4
+100552,M,Y,N,0,69500.0,Student,Higher education,Civil marriage,With parents,-17788,-4096,1,1,1,0,Unspecified,1
+100553,F,Y,N,4,194000.0,Pensioner,Lower secondary,Separated,Office apartment,-7389,-7733,1,0,1,0,Sales staff,5
+100554,M,N,N,3,224000.0,Working,Incomplete higher,Married,Municipal apartment,-20686,-3433,1,1,1,0,Accountants,4
+100555,M,N,Y,4,305500.0,Pensioner,Incomplete higher,Married,Municipal apartment,-20949,-11235,1,1,1,1,Cooking staff,5
+100556,M,Y,Y,4,219000.0,Student,Academic degree,Widow,Office apartment,-19808,-6247,1,0,1,0,IT staff,6
+100557,F,Y,N,1,341500.0,State servant,Incomplete higher,Single / not married,With parents,-10418,-11057,1,0,0,1,Laborers,2
+100558,M,N,N,1,155000.0,Commercial associate,Incomplete higher,Widow,House / apartment,-21898,-941,1,1,0,0,Accountants,3
+100559,M,Y,Y,3,324500.0,State servant,Lower secondary,Single / not married,Municipal apartment,-13765,-2128,1,0,1,1,Unspecified,5
+100560,F,Y,N,1,191000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-9096,-13509,1,1,0,1,Cooking staff,3
+100561,F,Y,Y,3,197000.0,State servant,Incomplete higher,Civil marriage,Municipal apartment,-12738,-6800,1,0,0,1,Security staff,5
+100562,M,N,Y,1,172500.0,Commercial associate,Incomplete higher,Widow,Rented apartment,-9187,-11436,1,0,1,1,IT staff,2
+100563,M,Y,N,2,259500.0,State servant,Higher education,Civil marriage,With parents,-23582,-731,1,1,0,0,Cleaning staff,4
+100564,F,N,Y,3,253000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-11472,-5359,1,1,1,1,Core staff,4
+100565,M,N,Y,4,291000.0,Pensioner,Higher education,Married,House / apartment,-10293,-2903,1,1,0,1,Managers,5
+100566,F,Y,N,0,233000.0,Commercial associate,Higher education,Single / not married,Office apartment,-14083,-7242,1,0,0,1,Unspecified,2
+100567,M,Y,Y,3,445000.0,State servant,Higher education,Married,Rented apartment,-14816,-3276,1,0,0,1,Laborers,4
+100568,M,Y,Y,2,99000.0,Commercial associate,Higher education,Single / not married,Municipal apartment,-23793,-1764,1,1,1,0,Cooking staff,3
+100569,F,N,Y,4,168500.0,Commercial associate,Secondary / secondary special,Civil marriage,Rented apartment,-12689,-245,1,1,1,0,Medicine staff,5
+100570,M,Y,N,3,382500.0,Student,Incomplete higher,Single / not married,House / apartment,-14161,-6735,1,1,1,0,Unspecified,4
+100571,M,N,N,2,397000.0,Commercial associate,Incomplete higher,Married,Rented apartment,-22798,-1106,1,1,0,1,Medicine staff,3
+100572,M,Y,Y,4,365500.0,Working,Incomplete higher,Married,Municipal apartment,-14980,-10154,1,0,0,0,Accountants,6
+100573,M,Y,N,2,154500.0,Working,Higher education,Widow,Municipal apartment,-17770,-2199,1,1,1,0,IT staff,4
+100574,M,Y,N,2,225000.0,Commercial associate,Higher education,Widow,House / apartment,-15137,-13130,1,0,1,1,Managers,4
+100575,M,N,Y,0,148500.0,Working,Higher education,Married,With parents,-10006,-2845,1,0,0,0,Medicine staff,2
+100576,M,Y,Y,2,267000.0,Commercial associate,Academic degree,Married,Rented apartment,-16350,-9444,1,1,0,1,Security staff,3
+100577,F,N,Y,2,291000.0,State servant,Lower secondary,Widow,Office apartment,-21202,-12457,1,0,1,0,Medicine staff,4
+100578,F,Y,Y,0,181500.0,State servant,Lower secondary,Civil marriage,Municipal apartment,-16280,-6146,1,1,0,1,Managers,2
+100579,M,Y,Y,1,56500.0,Student,Incomplete higher,Separated,Municipal apartment,-20625,-6465,1,1,1,1,Drivers,2
+100580,M,Y,N,3,339500.0,Commercial associate,Higher education,Separated,Rented apartment,-18422,-8349,1,1,1,0,Cleaning staff,5
+100581,M,Y,N,3,67500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21924,-11158,1,0,1,0,Cooking staff,4
+100582,M,Y,N,0,253500.0,Student,Secondary / secondary special,Widow,With parents,-20859,-2716,1,1,1,1,IT staff,2
+100583,F,N,Y,4,105500.0,Student,Incomplete higher,Married,Rented apartment,-13865,-12259,1,1,1,0,Managers,6
+100584,M,Y,N,0,318500.0,State servant,Incomplete higher,Separated,With parents,-12780,-6138,1,0,0,0,Security staff,1
+100585,M,N,Y,4,145000.0,Commercial associate,Secondary / secondary special,Married,With parents,-15498,-14782,1,1,1,0,Cleaning staff,5
+100586,F,Y,N,0,113500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,-14693,-7829,1,1,0,0,Laborers,2
+100587,M,Y,Y,0,317000.0,Working,Lower secondary,Widow,Office apartment,-15710,-7961,1,1,1,1,Accountants,2
+100588,F,Y,N,2,390500.0,State servant,Lower secondary,Widow,House / apartment,-18666,-14304,1,1,0,0,Security staff,4
+100589,M,Y,N,1,408000.0,Commercial associate,Incomplete higher,Separated,Office apartment,-22571,-8436,1,1,0,0,Cleaning staff,3
+100590,F,Y,N,0,397000.0,State servant,Higher education,Widow,Municipal apartment,-20112,-12111,1,0,1,1,Security staff,1
+100591,F,Y,Y,3,495000.0,Student,Academic degree,Widow,House / apartment,-11189,-8158,1,0,1,1,Managers,5
+100592,F,Y,Y,0,158000.0,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-7957,-2625,1,1,1,1,Sales staff,2
+100593,M,Y,N,3,96000.0,Pensioner,Higher education,Widow,Office apartment,-9119,-10551,1,1,1,1,Cleaning staff,5
+100594,M,N,Y,1,198500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-13165,-12199,1,0,1,0,Accountants,3
+100595,M,N,Y,4,352000.0,Student,Higher education,Separated,Municipal apartment,-17474,-12636,1,1,0,0,Core staff,6
+100596,F,N,Y,0,467500.0,Pensioner,Higher education,Separated,Municipal apartment,-11830,-9854,1,1,0,0,Cooking staff,2
+100597,M,N,N,2,373000.0,Commercial associate,Lower secondary,Civil marriage,Municipal apartment,-8927,-13274,1,1,0,0,Unspecified,3
+100598,M,N,N,0,203000.0,Commercial associate,Secondary / secondary special,Widow,Municipal apartment,-18056,-6921,1,1,1,1,Medicine staff,1
+100599,F,N,Y,4,408500.0,Student,Lower secondary,Single / not married,With parents,-17597,-12325,1,0,1,1,Cleaning staff,5
+100600,M,N,N,4,199000.0,Commercial associate,Higher education,Married,With parents,-7299,-5934,1,0,0,1,Medicine staff,5
+100601,M,N,N,0,141500.0,Working,Secondary / secondary special,Widow,Rented apartment,-21215,-2434,1,1,0,0,Core staff,1
+100602,F,N,Y,3,384000.0,State servant,Secondary / secondary special,Separated,Municipal apartment,-16018,-10360,1,1,1,0,Core staff,4
+100603,M,N,Y,0,61500.0,Student,Academic degree,Widow,Municipal apartment,-15969,-11366,1,0,0,1,Security staff,2
+100604,M,Y,N,2,82500.0,Student,Higher education,Separated,House / apartment,-19903,-9110,1,1,0,0,Sales staff,3
+100605,M,Y,N,1,459500.0,Pensioner,Secondary / secondary special,Single / not married,With parents,-13757,-10692,1,0,0,1,Laborers,2
+100606,F,N,Y,0,266500.0,Working,Higher education,Civil marriage,House / apartment,-24021,-14821,1,1,1,0,Cooking staff,2
+100607,F,Y,Y,2,389000.0,Working,Higher education,Single / not married,With parents,-11642,-4910,1,0,0,0,Cooking staff,4
+100608,M,N,Y,2,331500.0,Pensioner,Incomplete higher,Separated,With parents,-20109,-7472,1,0,1,1,Unspecified,3
+100609,M,Y,N,4,374000.0,Commercial associate,Incomplete higher,Widow,Office apartment,-12375,-6876,1,0,1,1,Medicine staff,5
+100610,M,Y,N,4,113500.0,Student,Secondary / secondary special,Widow,Municipal apartment,-9161,-5396,1,0,1,1,Drivers,5
+100611,F,Y,Y,1,243000.0,Commercial associate,Lower secondary,Single / not married,House / apartment,-12758,-8625,1,1,1,0,IT staff,3
+100612,F,N,Y,4,74500.0,Commercial associate,Incomplete higher,Separated,With parents,-18310,-13206,1,1,1,0,Drivers,5
+100613,M,Y,Y,4,243500.0,Student,Incomplete higher,Single / not married,Rented apartment,-15162,-11111,1,1,1,0,Security staff,6
+100614,F,N,N,3,316500.0,Commercial associate,Incomplete higher,Single / not married,Rented apartment,-20320,-12625,1,1,0,0,Core staff,4
+100615,M,Y,Y,0,430500.0,Pensioner,Academic degree,Separated,House / apartment,-20893,-11092,1,0,1,1,IT staff,1
+100616,M,Y,Y,3,415500.0,State servant,Academic degree,Civil marriage,With parents,-24305,-11207,1,0,1,0,Cleaning staff,4
+100617,M,N,Y,1,313000.0,Pensioner,Secondary / secondary special,Separated,Municipal apartment,-19422,-2793,1,1,0,1,Cleaning staff,2
+100618,M,N,N,4,297000.0,Pensioner,Incomplete higher,Married,House / apartment,-19898,-3562,1,1,0,1,Cooking staff,6
+100619,F,Y,N,0,218000.0,Pensioner,Incomplete higher,Single / not married,House / apartment,-18459,-14584,1,0,1,1,Laborers,1
+100620,F,Y,Y,3,320500.0,Student,Higher education,Separated,House / apartment,-22971,-113,1,0,1,0,Security staff,5
+100621,F,N,N,2,143000.0,Student,Incomplete higher,Single / not married,Municipal apartment,-21396,-2651,1,0,1,1,Laborers,4
+100622,M,Y,N,1,70500.0,Commercial associate,Lower secondary,Separated,Rented apartment,-8035,-2626,1,0,1,1,Core staff,3
+100623,F,Y,N,3,434500.0,State servant,Academic degree,Separated,With parents,-10595,-1767,1,0,0,0,Accountants,4
+100624,M,N,N,1,355500.0,Working,Lower secondary,Separated,Rented apartment,-16247,-7961,1,0,1,0,Cooking staff,2
+100625,M,Y,N,4,442500.0,Working,Incomplete higher,Married,Municipal apartment,-13501,-7764,1,0,0,0,Cooking staff,5
+100626,M,Y,N,1,69500.0,Pensioner,Higher education,Married,Municipal apartment,-7578,-10100,1,0,0,0,Medicine staff,3
+100627,F,Y,Y,4,222000.0,State servant,Lower secondary,Single / not married,Office apartment,-20994,-10549,1,0,1,0,Drivers,6
+100628,F,N,Y,2,213500.0,Working,Higher education,Single / not married,House / apartment,-8708,-10820,1,1,0,1,Security staff,4
+100629,M,N,Y,4,179000.0,State servant,Incomplete higher,Civil marriage,Rented apartment,-10654,-1587,1,0,0,1,Accountants,6
+100630,F,Y,N,4,157500.0,Student,Lower secondary,Single / not married,House / apartment,-11275,-10314,1,0,0,0,Sales staff,6
+100631,M,N,N,0,421000.0,State servant,Higher education,Widow,With parents,-8435,-2094,1,0,1,1,IT staff,2
+100632,F,Y,N,2,84500.0,State servant,Lower secondary,Widow,Office apartment,-7716,-2735,1,1,0,1,Laborers,3
+100633,F,N,Y,1,134500.0,State servant,Academic degree,Separated,Office apartment,-19787,-6567,1,1,0,0,Laborers,2
+100634,M,Y,N,4,307500.0,Student,Incomplete higher,Civil marriage,With parents,-16711,-11604,1,1,0,0,Sales staff,5
+100635,M,N,Y,4,377000.0,Commercial associate,Incomplete higher,Married,Rented apartment,-8688,-10525,1,0,0,0,Laborers,6
+100636,F,N,Y,4,411000.0,Student,Incomplete higher,Married,Municipal apartment,-16663,-5318,1,0,0,1,Sales staff,6
+100637,F,Y,Y,1,419500.0,State servant,Incomplete higher,Widow,Office apartment,-13755,-13383,1,1,0,1,Drivers,2
+100638,F,Y,N,4,168500.0,State servant,Incomplete higher,Married,Municipal apartment,-10070,-8125,1,0,1,0,Managers,5
+100639,F,Y,N,4,60500.0,Pensioner,Higher education,Married,Municipal apartment,-13155,-1137,1,0,0,1,Sales staff,6
+100640,M,Y,Y,3,358500.0,Working,Lower secondary,Separated,House / apartment,-10605,-13542,1,0,0,0,Sales staff,4
+100641,M,Y,Y,2,455000.0,Working,Academic degree,Civil marriage,House / apartment,-13629,-2281,1,1,1,0,Drivers,4
+100642,M,Y,Y,3,328000.0,Pensioner,Academic degree,Single / not married,House / apartment,-8459,-1684,1,1,0,1,Managers,4
+100643,M,Y,N,1,247000.0,Commercial associate,Incomplete higher,Civil marriage,With parents,-19607,-11251,1,0,1,0,Core staff,2
+100644,F,N,Y,0,365000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,-8420,-9904,1,0,0,1,IT staff,2
+100645,M,N,Y,4,391500.0,Pensioner,Academic degree,Civil marriage,Rented apartment,-10405,-4441,1,1,1,1,Unspecified,5
+100646,M,Y,N,0,125500.0,State servant,Lower secondary,Separated,House / apartment,-10708,-9467,1,1,1,0,Core staff,2
+100647,M,N,N,1,213000.0,State servant,Lower secondary,Separated,Municipal apartment,-17926,-2264,1,0,1,1,IT staff,3
+100648,F,Y,N,4,92500.0,Student,Lower secondary,Widow,Office apartment,-14187,-11519,1,0,0,1,Laborers,5
+100649,F,N,Y,0,106000.0,Working,Incomplete higher,Civil marriage,With parents,-16656,-7543,1,0,1,0,Sales staff,1
+100650,M,Y,Y,0,243000.0,Working,Lower secondary,Civil marriage,House / apartment,-10473,-10858,1,0,1,0,Laborers,1
+100651,M,Y,Y,2,89000.0,Working,Academic degree,Separated,With parents,-12977,-7696,1,0,1,1,Medicine staff,4
+100652,M,N,Y,3,129500.0,Working,Secondary / secondary special,Widow,With parents,-23491,-2627,1,0,1,1,Cleaning staff,5
+100653,F,N,Y,4,266500.0,Commercial associate,Incomplete higher,Single / not married,Office apartment,-19371,-2050,1,0,1,0,Sales staff,6
+100654,M,N,N,1,210000.0,State servant,Lower secondary,Married,House / apartment,-19172,-10594,1,1,0,1,Core staff,2
+100655,F,N,Y,0,172500.0,Pensioner,Higher education,Widow,House / apartment,-9140,-3471,1,0,1,0,IT staff,1
+100656,M,N,Y,0,341500.0,Student,Secondary / secondary special,Widow,Municipal apartment,-8496,-787,1,1,0,1,Laborers,2
+100657,F,Y,N,2,434500.0,State servant,Incomplete higher,Married,House / apartment,-17856,-6672,1,0,0,0,Cooking staff,4
+100658,M,N,Y,3,127500.0,State servant,Secondary / secondary special,Single / not married,With parents,-14066,-13229,1,0,0,1,Security staff,4
+100659,F,N,N,2,70000.0,State servant,Higher education,Married,Office apartment,-9457,-2496,1,1,0,0,Managers,4
+100660,M,N,Y,4,282500.0,Pensioner,Higher education,Civil marriage,With parents,-9233,-4589,1,1,1,0,Core staff,5
+100661,F,N,N,3,440500.0,State servant,Higher education,Single / not married,Office apartment,-22999,-648,1,1,1,1,Medicine staff,4
+100662,F,N,N,3,92500.0,State servant,Academic degree,Separated,Rented apartment,-8398,-10168,1,0,0,0,Managers,4
+100663,F,Y,N,2,487000.0,Working,Higher education,Separated,Municipal apartment,-10063,-5716,1,1,1,1,Core staff,3
+100664,M,N,N,1,152000.0,State servant,Incomplete higher,Single / not married,Rented apartment,-18220,-9901,1,1,0,1,Core staff,3
+100665,M,Y,N,3,124500.0,Commercial associate,Incomplete higher,Widow,House / apartment,-19461,-1022,1,1,1,1,Sales staff,4
+100666,M,N,N,1,179000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-15975,-6636,1,0,1,1,Medicine staff,2
+100667,M,Y,Y,2,269000.0,Pensioner,Incomplete higher,Married,With parents,-18445,-6866,1,1,1,0,Unspecified,4
+100668,F,Y,Y,2,89500.0,Student,Academic degree,Married,Rented apartment,-17371,-232,1,0,1,0,Security staff,4
+100669,F,N,Y,0,280500.0,Commercial associate,Lower secondary,Widow,House / apartment,-8195,-3581,1,0,1,0,Cooking staff,2
+100670,F,Y,Y,1,397500.0,Student,Secondary / secondary special,Civil marriage,Rented apartment,-7530,-4947,1,1,0,1,Cleaning staff,3
+100671,F,N,N,3,474000.0,Student,Lower secondary,Widow,Rented apartment,-10715,-2880,1,1,1,1,Managers,4
+100672,F,N,N,4,482500.0,State servant,Incomplete higher,Widow,House / apartment,-9871,-13204,1,0,0,0,Cooking staff,6
+100673,F,Y,N,0,307500.0,Student,Secondary / secondary special,Civil marriage,Municipal apartment,-13942,-3651,1,1,1,0,Sales staff,2
+100674,F,N,N,0,470000.0,State servant,Secondary / secondary special,Civil marriage,With parents,-23631,-4646,1,1,1,1,Medicine staff,1
+100675,F,Y,Y,0,63000.0,Commercial associate,Incomplete higher,Widow,Office apartment,-17402,-5490,1,0,1,0,IT staff,2
+100676,F,Y,N,1,115500.0,State servant,Higher education,Separated,Rented apartment,-23950,-2595,1,1,0,0,Unspecified,2
+100677,M,N,N,4,478500.0,Student,Higher education,Civil marriage,With parents,-10055,-1528,1,0,1,0,Cleaning staff,5
+100678,M,N,Y,0,430000.0,Commercial associate,Lower secondary,Civil marriage,With parents,-14855,-10690,1,0,1,0,IT staff,1
+100679,F,Y,N,3,92000.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,-10635,-7522,1,0,0,0,Drivers,5
+100680,M,Y,N,1,482000.0,Pensioner,Higher education,Separated,House / apartment,-23090,-13032,1,0,1,0,Security staff,2
+100681,F,N,N,1,374000.0,State servant,Higher education,Married,Rented apartment,-7332,-14805,1,0,0,0,Accountants,3
+100682,M,Y,N,3,112000.0,Commercial associate,Academic degree,Single / not married,Office apartment,-7754,-8486,1,0,0,1,Core staff,4
+100683,F,Y,Y,0,92500.0,Commercial associate,Incomplete higher,Civil marriage,Municipal apartment,-13528,-1506,1,1,1,1,Unspecified,2
+100684,F,Y,N,3,138500.0,Commercial associate,Incomplete higher,Separated,House / apartment,-17210,-2714,1,0,1,1,Security staff,5
+100685,F,N,Y,4,360500.0,State servant,Lower secondary,Married,Office apartment,-18564,-6126,1,0,1,0,Laborers,6
+100686,F,N,N,4,253500.0,Working,Secondary / secondary special,Married,Rented apartment,-21070,-12958,1,0,1,0,Core staff,5
+100687,F,Y,N,2,112500.0,Working,Incomplete higher,Single / not married,Rented apartment,-14004,-7624,1,1,0,0,Medicine staff,4
+100688,M,Y,Y,4,337000.0,Pensioner,Academic degree,Single / not married,Office apartment,-20819,-11176,1,1,1,1,Sales staff,5
+100689,F,N,Y,0,190500.0,State servant,Secondary / secondary special,Single / not married,Municipal apartment,-12607,-9853,1,1,1,0,Cooking staff,1
+100690,M,Y,N,2,195500.0,Commercial associate,Lower secondary,Single / not married,Office apartment,-24285,-640,1,1,0,0,Security staff,3
+100691,F,N,N,3,435500.0,Pensioner,Lower secondary,Single / not married,Office apartment,-17262,-8090,1,0,1,1,Unspecified,5
+100692,M,N,Y,3,64500.0,Commercial associate,Secondary / secondary special,Single / not married,With parents,-10445,-5289,1,1,0,0,Core staff,4
+100693,M,Y,N,2,451500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9458,-4320,1,1,1,1,Unspecified,3
+100694,F,Y,Y,1,213000.0,Commercial associate,Academic degree,Separated,Municipal apartment,-11009,-8548,1,0,1,1,Drivers,3
+100695,M,Y,N,3,442000.0,Pensioner,Secondary / secondary special,Civil marriage,Office apartment,-14942,-10804,1,0,0,0,Security staff,4
+100696,M,Y,N,1,469000.0,State servant,Higher education,Separated,House / apartment,-18155,-3418,1,1,1,1,Cleaning staff,2
+100697,M,Y,Y,4,236000.0,State servant,Lower secondary,Widow,Office apartment,-13652,-12779,1,1,0,0,Drivers,6
+100698,F,Y,Y,1,286000.0,Working,Secondary / secondary special,Married,House / apartment,-22101,-3064,1,1,0,1,Cleaning staff,3
+100699,F,Y,Y,2,231000.0,State servant,Higher education,Married,Municipal apartment,-23455,-7059,1,1,0,1,Drivers,4
+100700,M,N,N,0,149000.0,Pensioner,Higher education,Separated,With parents,-16041,-8676,1,1,1,0,Cleaning staff,1
+100701,M,Y,Y,1,77000.0,Working,Academic degree,Civil marriage,With parents,-9157,-8718,1,0,1,0,Cooking staff,3
+100702,F,Y,Y,3,425500.0,Pensioner,Lower secondary,Married,With parents,-13670,-5695,1,1,1,0,Core staff,4
+100703,F,N,Y,4,137000.0,Pensioner,Secondary / secondary special,Married,With parents,-17884,-14743,1,1,0,0,Cleaning staff,6
+100704,F,Y,Y,3,185000.0,Working,Higher education,Single / not married,Office apartment,-18539,-7763,1,0,1,0,Security staff,4
+100705,M,N,Y,0,318500.0,Student,Higher education,Married,House / apartment,-10276,-4990,1,1,1,1,Unspecified,2
+100706,F,N,N,4,236500.0,State servant,Secondary / secondary special,Civil marriage,Rented apartment,-17935,-14604,1,1,0,1,Cleaning staff,5
+100707,F,Y,Y,1,232500.0,State servant,Secondary / secondary special,Married,Office apartment,-21113,-5888,1,0,0,0,Medicine staff,2
+100708,F,Y,N,2,397500.0,Pensioner,Incomplete higher,Separated,Office apartment,-20673,-4526,1,1,0,0,Cooking staff,4
+100709,M,N,N,4,340000.0,Pensioner,Incomplete higher,Single / not married,House / apartment,-23348,-11231,1,0,1,0,IT staff,6
+100710,M,N,N,4,197500.0,Working,Incomplete higher,Single / not married,Municipal apartment,-8341,-3560,1,1,0,0,Security staff,6
+100711,F,N,Y,0,75500.0,Pensioner,Higher education,Civil marriage,Rented apartment,-23449,-10900,1,0,0,1,Managers,1
+100712,M,N,Y,3,66000.0,State servant,Incomplete higher,Married,Municipal apartment,-20846,-6539,1,0,1,1,Cooking staff,5
+100713,F,N,Y,1,399500.0,Commercial associate,Incomplete higher,Married,Municipal apartment,-13537,-4932,1,1,0,1,Cooking staff,3
+100714,M,N,N,4,99000.0,Commercial associate,Academic degree,Separated,Rented apartment,-23509,-11225,1,1,1,1,Medicine staff,6
+100715,F,N,Y,3,336000.0,Working,Lower secondary,Single / not married,With parents,-16908,-12888,1,0,1,0,Cooking staff,5
+100716,F,Y,N,0,393000.0,Working,Lower secondary,Widow,Municipal apartment,-8780,-1387,1,0,1,0,Accountants,1
+100717,F,N,Y,2,112000.0,Student,Academic degree,Single / not married,With parents,-23916,-2361,1,1,0,0,Cleaning staff,3
+100718,F,Y,N,2,369000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-12014,-9892,1,0,0,0,Sales staff,3
+100719,M,N,N,3,78000.0,Working,Incomplete higher,Separated,Municipal apartment,-13030,-13439,1,0,1,1,Cleaning staff,4
+100720,M,Y,Y,3,122500.0,Commercial associate,Higher education,Widow,Office apartment,-13565,-7801,1,1,1,1,Cleaning staff,4
+100721,F,N,N,4,250000.0,State servant,Secondary / secondary special,Separated,Municipal apartment,-20920,-2427,1,0,1,1,Core staff,6
+100722,F,Y,N,0,71500.0,Pensioner,Higher education,Separated,Municipal apartment,-16073,-149,1,0,1,0,Accountants,2
+100723,M,Y,Y,4,230000.0,Student,Incomplete higher,Separated,With parents,-16120,-12860,1,1,1,0,Cleaning staff,6
+100724,F,Y,N,3,116000.0,Pensioner,Academic degree,Widow,Rented apartment,-20230,-1107,1,0,0,0,Sales staff,4
+100725,F,N,N,0,439000.0,Commercial associate,Higher education,Single / not married,With parents,-19585,-12383,1,1,0,0,Cooking staff,2
+100726,M,Y,N,0,440500.0,Pensioner,Academic degree,Single / not married,With parents,-17523,-1763,1,1,1,0,Cleaning staff,1
+100727,F,N,N,1,397500.0,Pensioner,Higher education,Married,With parents,-21223,-13333,1,0,0,0,Cleaning staff,2
+100728,M,Y,Y,1,234000.0,State servant,Academic degree,Widow,House / apartment,-18164,-3036,1,1,0,0,Cooking staff,3
+100729,F,N,Y,4,460000.0,Working,Lower secondary,Separated,Municipal apartment,-9322,-9324,1,0,0,1,Core staff,5
+100730,M,Y,N,3,61500.0,Commercial associate,Incomplete higher,Civil marriage,Municipal apartment,-18727,-1113,1,0,1,0,IT staff,4
+100731,F,N,Y,4,329500.0,Working,Academic degree,Separated,Rented apartment,-7982,-528,1,1,1,1,Sales staff,6
+100732,M,Y,N,0,437500.0,Working,Higher education,Separated,House / apartment,-8158,-5666,1,0,1,0,IT staff,2
+100733,F,Y,Y,1,68000.0,State servant,Academic degree,Married,Rented apartment,-21139,-7824,1,1,0,0,Laborers,2
+100734,F,Y,N,1,76500.0,State servant,Lower secondary,Married,Municipal apartment,-20986,-9003,1,0,0,1,Core staff,3
+100735,M,N,N,2,79500.0,Commercial associate,Higher education,Single / not married,Office apartment,-7329,-3721,1,1,0,0,Unspecified,3
+100736,M,Y,Y,0,274500.0,Commercial associate,Incomplete higher,Single / not married,Rented apartment,-18457,-9869,1,0,1,0,Cooking staff,2
+100737,M,Y,Y,3,178000.0,Student,Higher education,Separated,Rented apartment,-14218,-7266,1,1,1,1,Cleaning staff,4
+100738,F,N,Y,4,77500.0,Pensioner,Lower secondary,Widow,Municipal apartment,-16167,-1285,1,0,0,0,Drivers,5
+100739,F,Y,Y,0,170000.0,State servant,Lower secondary,Single / not married,House / apartment,-23348,-13702,1,0,1,1,Cooking staff,2
+100740,M,Y,N,2,487500.0,Student,Lower secondary,Separated,House / apartment,-19536,-6302,1,1,0,0,Sales staff,4
+100741,F,Y,N,1,66000.0,Student,Incomplete higher,Single / not married,Office apartment,-18017,-13568,1,1,0,0,Accountants,3
+100742,M,Y,N,3,419000.0,Pensioner,Academic degree,Separated,Municipal apartment,-24003,-4261,1,0,1,1,Unspecified,4
+100743,M,N,N,1,93500.0,Commercial associate,Academic degree,Civil marriage,Rented apartment,-19930,-632,1,1,1,1,Cleaning staff,3
+100744,M,Y,N,4,341000.0,Pensioner,Incomplete higher,Married,Municipal apartment,-22162,-282,1,1,0,1,Laborers,6
+100745,M,N,Y,3,346500.0,Working,Incomplete higher,Widow,Office apartment,-17290,-1049,1,1,0,1,Drivers,5
+100746,M,Y,Y,3,125000.0,Student,Secondary / secondary special,Married,House / apartment,-8261,-3018,1,1,1,0,IT staff,4
+100747,F,N,Y,0,397000.0,Pensioner,Academic degree,Single / not married,Office apartment,-14690,-5729,1,0,0,1,Core staff,1
+100748,M,N,N,1,474500.0,State servant,Secondary / secondary special,Separated,Rented apartment,-11688,-404,1,1,1,1,Medicine staff,3
+100749,F,Y,Y,3,238500.0,Working,Incomplete higher,Married,Office apartment,-7836,-1740,1,0,1,1,Sales staff,5
+100750,M,Y,N,4,440000.0,Working,Secondary / secondary special,Married,Office apartment,-23498,-9411,1,1,0,0,Cooking staff,6
+100751,F,N,N,4,149500.0,Student,Incomplete higher,Married,Rented apartment,-14965,-13090,1,1,0,1,Accountants,5
+100752,F,N,N,1,90500.0,Pensioner,Academic degree,Widow,House / apartment,-18871,-10704,1,1,0,1,Medicine staff,2
+100753,M,Y,N,4,395000.0,Student,Higher education,Widow,Rented apartment,-16400,-5596,1,1,0,0,Medicine staff,6
+100754,M,N,Y,4,142000.0,State servant,Secondary / secondary special,Married,House / apartment,-20717,-4315,1,1,0,0,Laborers,6
+100755,M,Y,Y,0,313500.0,Student,Lower secondary,Separated,Rented apartment,-11176,-6591,1,0,1,0,Accountants,2
+100756,M,Y,Y,4,428000.0,Pensioner,Lower secondary,Separated,Municipal apartment,-21276,-4739,1,1,0,0,Unspecified,5
+100757,M,N,N,1,244000.0,Pensioner,Lower secondary,Married,Office apartment,-16152,-12664,1,0,0,1,Security staff,3
+100758,F,N,N,0,246500.0,Pensioner,Higher education,Married,House / apartment,-13903,-7053,1,1,1,0,Accountants,2
+100759,M,N,N,1,299000.0,State servant,Higher education,Married,Rented apartment,-15500,-9931,1,0,0,1,Managers,2
+100760,M,Y,Y,1,326000.0,Student,Higher education,Single / not married,Municipal apartment,-7844,-6054,1,0,1,1,Unspecified,3
+100761,M,N,N,4,106000.0,Working,Lower secondary,Separated,Municipal apartment,-15619,-1423,1,0,1,0,Accountants,5
+100762,M,N,Y,1,309500.0,Pensioner,Incomplete higher,Separated,Office apartment,-9427,-11580,1,1,0,1,Core staff,3
+100763,M,Y,Y,1,120000.0,Student,Lower secondary,Married,With parents,-15692,-7702,1,0,1,0,Unspecified,3
+100764,M,Y,Y,2,314000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-23078,-9137,1,0,0,0,Medicine staff,4
+100765,F,Y,N,4,297500.0,Student,Higher education,Civil marriage,With parents,-16572,-10944,1,1,1,1,Cooking staff,6
+100766,F,N,Y,4,162000.0,Working,Incomplete higher,Separated,Municipal apartment,-17662,-4053,1,1,0,0,Security staff,6
+100767,F,N,Y,0,446000.0,State servant,Lower secondary,Widow,Municipal apartment,-14695,-474,1,1,1,0,Medicine staff,1
+100768,F,N,N,4,260500.0,State servant,Lower secondary,Separated,Municipal apartment,-15542,-14948,1,0,1,1,Unspecified,5
+100769,M,N,N,2,259500.0,Commercial associate,Academic degree,Married,Office apartment,-13756,-12772,1,0,1,0,Cooking staff,3
+100770,F,Y,N,0,230500.0,Student,Secondary / secondary special,Single / not married,Office apartment,-13896,-5932,1,0,0,1,Unspecified,1
+100771,M,N,N,2,261500.0,Commercial associate,Academic degree,Married,House / apartment,-8182,-13852,1,0,0,1,Security staff,3
+100772,F,N,Y,1,167500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-19381,-10736,1,1,0,1,Core staff,2
+100773,F,Y,Y,0,430000.0,Student,Academic degree,Married,House / apartment,-19816,-3183,1,1,1,1,IT staff,1
+100774,F,N,Y,2,101000.0,Pensioner,Academic degree,Separated,Municipal apartment,-16543,-7037,1,0,0,1,IT staff,4
+100775,F,Y,N,3,58500.0,State servant,Lower secondary,Civil marriage,Office apartment,-10548,-7409,1,0,0,1,Sales staff,5
+100776,F,Y,N,2,220000.0,Commercial associate,Secondary / secondary special,Single / not married,Office apartment,-12546,-3402,1,1,0,0,Managers,4
+100777,F,Y,Y,4,442500.0,State servant,Incomplete higher,Separated,Rented apartment,-18071,-13669,1,0,0,1,Unspecified,6
+100778,F,Y,N,0,329000.0,State servant,Incomplete higher,Married,Rented apartment,-22118,-11614,1,1,0,0,Medicine staff,1
+100779,M,Y,Y,3,316000.0,Working,Higher education,Married,Municipal apartment,-10724,-639,1,1,1,0,Cleaning staff,5
+100780,F,N,Y,1,201500.0,Working,Lower secondary,Civil marriage,Rented apartment,-24120,-5281,1,1,0,0,Drivers,2
+100781,F,N,N,4,286500.0,Commercial associate,Incomplete higher,Married,With parents,-24182,-11715,1,1,0,1,Medicine staff,5
+100782,F,Y,Y,1,209500.0,Commercial associate,Higher education,Single / not married,Office apartment,-22027,-5423,1,0,0,1,Cooking staff,2
+100783,F,Y,N,0,371500.0,Working,Higher education,Civil marriage,Rented apartment,-20964,-9575,1,1,1,1,Drivers,1
+100784,M,Y,Y,0,193000.0,Commercial associate,Incomplete higher,Widow,House / apartment,-11151,-13056,1,1,1,1,Unspecified,2
+100785,M,Y,Y,1,160500.0,Working,Academic degree,Married,With parents,-12400,-7790,1,0,1,0,Laborers,2
+100786,F,N,N,4,217000.0,Pensioner,Academic degree,Single / not married,With parents,-19885,-6181,1,1,1,1,Drivers,6
+100787,M,Y,Y,4,374000.0,Pensioner,Higher education,Separated,Office apartment,-21471,-8029,1,1,0,1,Cleaning staff,6
+100788,M,N,N,1,444500.0,Pensioner,Lower secondary,Married,Office apartment,-13258,-6266,1,1,0,0,Sales staff,3
+100789,M,Y,N,2,218000.0,Working,Incomplete higher,Civil marriage,Office apartment,-7425,-9941,1,1,0,1,Cleaning staff,4
+100790,M,N,N,3,370000.0,Working,Academic degree,Single / not married,Municipal apartment,-21892,-8033,1,0,1,0,Laborers,5
+100791,M,Y,Y,0,92000.0,State servant,Secondary / secondary special,Single / not married,Municipal apartment,-9042,-5148,1,0,1,0,Cleaning staff,1
+100792,F,Y,N,2,314000.0,Working,Lower secondary,Separated,House / apartment,-9128,-3161,1,0,1,0,Managers,4
+100793,F,Y,N,0,138500.0,Working,Incomplete higher,Civil marriage,Office apartment,-18491,-1928,1,1,1,0,Cooking staff,2
+100794,M,Y,Y,0,423500.0,Working,Higher education,Civil marriage,Office apartment,-7658,-12561,1,0,0,0,Cleaning staff,2
+100795,M,Y,N,3,478500.0,Commercial associate,Higher education,Civil marriage,House / apartment,-19429,-11565,1,1,0,1,Managers,5
+100796,M,Y,N,3,152000.0,Commercial associate,Incomplete higher,Civil marriage,Municipal apartment,-15668,-1514,1,1,1,1,Accountants,5
+100797,M,N,Y,1,325000.0,Student,Higher education,Separated,Rented apartment,-16459,-3398,1,1,1,0,IT staff,2
+100798,M,N,N,2,66000.0,Working,Academic degree,Married,Municipal apartment,-11581,-7655,1,1,1,1,Cleaning staff,3
+100799,M,N,Y,2,131000.0,State servant,Lower secondary,Civil marriage,Rented apartment,-10283,-3065,1,1,1,0,Security staff,3
+100800,F,N,N,0,424000.0,State servant,Lower secondary,Married,Rented apartment,-19229,-9845,1,1,1,1,Drivers,1
+100801,M,N,N,1,446000.0,Pensioner,Academic degree,Separated,Office apartment,-7935,-2687,1,0,1,0,Cooking staff,2
+100802,F,Y,Y,1,208000.0,Commercial associate,Incomplete higher,Separated,Municipal apartment,-12417,-7546,1,0,0,0,Managers,3
+100803,M,Y,Y,2,489000.0,Commercial associate,Lower secondary,Single / not married,With parents,-12050,-11218,1,1,0,1,Managers,4
+100804,F,N,Y,0,291500.0,State servant,Lower secondary,Married,House / apartment,-19700,-2105,1,1,0,1,Accountants,2
+100805,F,Y,N,3,300000.0,Student,Secondary / secondary special,Married,Office apartment,-12837,-12580,1,0,1,1,Accountants,4
+100806,F,Y,Y,4,120500.0,State servant,Higher education,Single / not married,With parents,-16893,-7133,1,0,1,1,Cleaning staff,5
+100807,M,N,N,3,248000.0,State servant,Secondary / secondary special,Civil marriage,Municipal apartment,-12882,-2679,1,1,0,1,Core staff,5
+100808,F,Y,Y,0,213000.0,Commercial associate,Academic degree,Widow,Municipal apartment,-21899,-189,1,1,1,1,Laborers,2
+100809,F,Y,N,3,307000.0,Pensioner,Lower secondary,Civil marriage,Office apartment,-18955,-1829,1,0,1,1,Cleaning staff,4
+100810,M,N,N,1,151000.0,Student,Academic degree,Separated,Municipal apartment,-8590,-7614,1,1,0,0,Security staff,3
+100811,M,N,N,2,267500.0,Pensioner,Incomplete higher,Single / not married,Office apartment,-15756,-2928,1,1,1,1,Laborers,4
+100812,F,Y,Y,2,232500.0,Working,Academic degree,Separated,With parents,-12742,-1377,1,0,0,0,Cleaning staff,4
+100813,F,N,N,3,402500.0,Student,Higher education,Widow,Office apartment,-22021,-665,1,0,1,1,Laborers,4
+100814,M,N,Y,4,222500.0,Pensioner,Lower secondary,Separated,House / apartment,-13027,-12235,1,1,0,1,Core staff,5
+100815,F,N,Y,4,405000.0,Working,Incomplete higher,Widow,Municipal apartment,-14051,-12463,1,1,1,0,Drivers,5
+100816,F,Y,N,4,189500.0,Working,Lower secondary,Married,House / apartment,-20576,-10767,1,0,1,1,Security staff,6
+100817,M,Y,Y,0,413000.0,Pensioner,Higher education,Single / not married,Office apartment,-16431,-11930,1,1,1,1,IT staff,2
+100818,M,N,N,3,213500.0,Pensioner,Lower secondary,Married,Municipal apartment,-23350,-3451,1,0,1,1,Medicine staff,4
+100819,M,N,N,4,92500.0,Commercial associate,Academic degree,Civil marriage,Rented apartment,-16562,-12302,1,1,1,1,Laborers,5
+100820,M,N,N,4,262500.0,Working,Incomplete higher,Widow,Municipal apartment,-14691,-6148,1,0,1,0,Core staff,6
+100821,M,Y,N,1,141000.0,Commercial associate,Lower secondary,Widow,Municipal apartment,-18535,-12308,1,0,1,1,Accountants,3
+100822,F,N,Y,0,489500.0,State servant,Lower secondary,Separated,Rented apartment,-21727,-2571,1,0,1,1,Laborers,2
+100823,M,Y,N,3,347000.0,State servant,Lower secondary,Separated,With parents,-7951,-10139,1,0,0,0,Cooking staff,5
+100824,F,Y,Y,0,341000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,-19757,-9044,1,0,0,1,Accountants,1
+100825,F,Y,N,1,117500.0,Pensioner,Secondary / secondary special,Single / not married,With parents,-22111,-7523,1,0,1,0,Managers,3
+100826,M,N,Y,4,175000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,-20315,-14205,1,1,1,0,Medicine staff,6
+100827,M,Y,N,4,296000.0,Working,Incomplete higher,Separated,House / apartment,-18907,-6544,1,1,1,0,Core staff,5
+100828,M,Y,N,2,261000.0,Pensioner,Higher education,Married,Municipal apartment,-13884,-4333,1,0,1,0,Security staff,4
+100829,F,N,N,1,402500.0,State servant,Incomplete higher,Separated,Rented apartment,-16020,-9739,1,0,0,0,IT staff,3
+100830,M,N,N,0,415000.0,Pensioner,Incomplete higher,Married,Office apartment,-16985,-7787,1,1,1,0,Unspecified,1
+100831,F,N,N,1,376000.0,Commercial associate,Secondary / secondary special,Married,Office apartment,-16927,-2430,1,0,1,1,Unspecified,3
+100832,M,N,Y,3,350500.0,Student,Incomplete higher,Widow,Rented apartment,-19385,-14178,1,1,0,1,Managers,5
+100833,M,Y,N,3,165000.0,Pensioner,Higher education,Married,With parents,-16119,-9971,1,0,0,1,Security staff,5
+100834,M,Y,Y,4,236000.0,Working,Lower secondary,Single / not married,Rented apartment,-23627,-1100,1,1,0,0,Security staff,5
+100835,F,Y,Y,1,166500.0,State servant,Higher education,Single / not married,Office apartment,-15708,-9043,1,1,0,0,Unspecified,2
+100836,F,Y,Y,1,166500.0,Commercial associate,Academic degree,Widow,Municipal apartment,-22213,-1610,1,0,1,0,Sales staff,3
+100837,F,Y,N,0,151000.0,Working,Academic degree,Widow,With parents,-22965,-4914,1,0,1,0,Unspecified,2
+100838,F,Y,N,1,436000.0,State servant,Academic degree,Civil marriage,Municipal apartment,-12784,-5384,1,1,1,1,Drivers,2
+100839,F,N,N,2,107000.0,Commercial associate,Lower secondary,Single / not married,Rented apartment,-23696,-7708,1,1,0,0,Core staff,4
+100840,M,N,N,2,376500.0,Student,Higher education,Married,House / apartment,-14595,-3493,1,1,1,1,IT staff,4
+100841,F,Y,Y,0,215500.0,Commercial associate,Higher education,Separated,With parents,-12175,-9996,1,0,1,1,Cleaning staff,2
+100842,M,N,N,2,488000.0,Pensioner,Incomplete higher,Married,Rented apartment,-17935,-11906,1,1,1,1,Drivers,4
+100843,F,N,Y,4,440000.0,State servant,Secondary / secondary special,Separated,Rented apartment,-11585,-7485,1,1,0,0,Sales staff,6
+100844,F,Y,N,2,268500.0,State servant,Incomplete higher,Widow,Office apartment,-13535,-13065,1,0,1,1,Core staff,3
+100845,M,N,N,1,419000.0,Student,Lower secondary,Single / not married,Municipal apartment,-22959,-4093,1,1,1,0,Core staff,2
+100846,F,N,N,2,195500.0,Working,Lower secondary,Married,House / apartment,-17634,-12701,1,1,0,0,Cooking staff,4
+100847,M,Y,N,4,175500.0,Pensioner,Academic degree,Widow,Rented apartment,-24400,-13390,1,1,0,0,Core staff,6
+100848,F,Y,Y,2,214000.0,State servant,Higher education,Separated,Rented apartment,-17912,-3260,1,1,1,0,Managers,3
+100849,F,N,N,3,458500.0,Working,Academic degree,Single / not married,Office apartment,-19238,-265,1,1,0,1,IT staff,5
+100850,F,Y,Y,2,339000.0,Working,Academic degree,Single / not married,Office apartment,-12184,-13084,1,0,1,0,Core staff,4
+100851,F,N,Y,2,383000.0,Pensioner,Secondary / secondary special,Married,Office apartment,-18134,-7439,1,1,0,1,Cooking staff,4
+100852,F,Y,Y,0,165000.0,Pensioner,Lower secondary,Married,Rented apartment,-14303,-9574,1,1,1,0,Cooking staff,2
+100853,M,Y,Y,4,155500.0,Pensioner,Higher education,Single / not married,House / apartment,-24479,-9861,1,0,0,1,Core staff,6
+100854,M,Y,Y,2,205000.0,Commercial associate,Lower secondary,Civil marriage,With parents,-14118,-12654,1,1,0,0,Security staff,3
+100855,M,N,Y,3,244500.0,Working,Lower secondary,Separated,Municipal apartment,-13508,-3369,1,1,0,0,Managers,4
+100856,M,Y,N,1,429000.0,Student,Incomplete higher,Civil marriage,Municipal apartment,-13258,-3446,1,0,1,1,Drivers,2
+100857,M,Y,N,3,461000.0,State servant,Lower secondary,Single / not married,Rented apartment,-18809,-5078,1,0,1,1,Sales staff,4
+100858,F,Y,N,3,423500.0,Pensioner,Secondary / secondary special,Married,With parents,-12811,-9250,1,0,0,0,Managers,5
+100859,M,Y,N,0,240000.0,Student,Lower secondary,Married,Municipal apartment,-12649,-2861,1,0,0,1,Core staff,1
+100860,F,Y,N,0,256500.0,Pensioner,Incomplete higher,Widow,Rented apartment,-7933,-12833,1,0,1,0,Security staff,1
+100861,F,Y,N,1,440000.0,Student,Academic degree,Married,With parents,-10280,-244,1,1,0,0,Medicine staff,2
+100862,F,N,N,0,488000.0,Student,Lower secondary,Married,Office apartment,-7023,-5102,1,1,1,1,Managers,2
+100863,F,Y,N,4,302000.0,Student,Higher education,Married,With parents,-23866,-2126,1,0,0,0,Unspecified,5
+100864,F,Y,Y,3,165500.0,Pensioner,Higher education,Civil marriage,Rented apartment,-22143,-10950,1,1,0,1,Medicine staff,5
+100865,M,N,Y,1,456500.0,Commercial associate,Higher education,Single / not married,With parents,-8117,-13686,1,0,0,1,Accountants,2
+100866,F,N,N,4,146000.0,Student,Lower secondary,Separated,With parents,-21850,-10179,1,1,1,0,Unspecified,6
+100867,F,N,Y,4,180500.0,Pensioner,Lower secondary,Widow,Municipal apartment,-10162,-10944,1,1,1,0,Accountants,6
+100868,M,Y,Y,0,284000.0,Working,Secondary / secondary special,Widow,Rented apartment,-11138,-14308,1,1,1,1,Medicine staff,1
+100869,M,N,Y,4,122500.0,Commercial associate,Secondary / secondary special,Married,Rented apartment,-24222,-9845,1,0,0,1,IT staff,5
+100870,M,N,Y,4,101000.0,Commercial associate,Academic degree,Married,With parents,-24721,-9988,1,1,0,1,Laborers,6
+100871,F,N,N,2,289500.0,Pensioner,Higher education,Civil marriage,House / apartment,-9453,-4117,1,1,0,0,Laborers,4
+100872,M,N,Y,1,441000.0,Commercial associate,Lower secondary,Married,Municipal apartment,-19812,-9689,1,0,0,1,Core staff,2
+100873,M,N,Y,2,421500.0,Student,Higher education,Married,Municipal apartment,-11666,-11013,1,1,1,0,Cleaning staff,3
+100874,F,Y,N,4,168500.0,State servant,Incomplete higher,Single / not married,Office apartment,-21888,-2517,1,0,1,1,Laborers,6
+100875,M,N,N,2,349500.0,Commercial associate,Lower secondary,Civil marriage,With parents,-24132,-1688,1,0,1,0,Cleaning staff,4
+100876,F,Y,Y,3,492500.0,Pensioner,Incomplete higher,Civil marriage,Office apartment,-17775,-6875,1,1,1,0,Laborers,4
+100877,M,N,Y,3,352500.0,State servant,Incomplete higher,Single / not married,Municipal apartment,-19314,-9938,1,1,0,0,Cooking staff,4
+100878,M,Y,Y,4,234500.0,Student,Academic degree,Separated,Municipal apartment,-8306,-5690,1,1,1,0,Medicine staff,6
+100879,M,Y,Y,0,372500.0,Pensioner,Secondary / secondary special,Civil marriage,Municipal apartment,-7929,-11944,1,1,1,1,Cleaning staff,2
+100880,M,N,N,2,451000.0,Working,Incomplete higher,Separated,Rented apartment,-12262,-3430,1,1,1,1,Managers,4
+100881,F,N,Y,0,212000.0,Pensioner,Secondary / secondary special,Single / not married,Municipal apartment,-17253,-10187,1,1,0,1,Sales staff,2
+100882,F,N,N,3,235000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-10652,-3109,1,1,1,0,Medicine staff,4
+100883,M,Y,N,1,486000.0,Pensioner,Higher education,Civil marriage,Office apartment,-18593,-6500,1,0,1,0,Unspecified,3
+100884,M,N,Y,4,276500.0,Working,Higher education,Widow,With parents,-15971,-431,1,1,0,0,Sales staff,5
+100885,M,Y,Y,3,201500.0,Commercial associate,Secondary / secondary special,Widow,Municipal apartment,-21383,-6791,1,0,1,0,IT staff,5
+100886,F,N,N,4,461000.0,Pensioner,Lower secondary,Civil marriage,Rented apartment,-14690,-5245,1,1,0,0,Accountants,5
+100887,M,Y,N,4,324000.0,Pensioner,Secondary / secondary special,Widow,With parents,-18414,-11756,1,0,1,1,Cooking staff,5
+100888,F,N,N,3,83000.0,Commercial associate,Secondary / secondary special,Widow,Municipal apartment,-8885,-14677,1,1,1,0,Core staff,5
+100889,F,N,Y,0,415000.0,Student,Lower secondary,Separated,With parents,-19984,-3525,1,1,1,1,Accountants,1
+100890,F,Y,N,4,491500.0,Working,Academic degree,Single / not married,Rented apartment,-10921,-12691,1,0,0,1,Unspecified,5
+100891,M,Y,Y,1,65000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,-10085,-6611,1,1,1,1,Unspecified,3
+100892,F,Y,Y,1,209000.0,Pensioner,Higher education,Separated,Rented apartment,-23373,-1486,1,0,1,1,Sales staff,2
+100893,M,N,N,2,434500.0,Working,Academic degree,Civil marriage,House / apartment,-8995,-9127,1,0,1,0,Managers,3
+100894,M,Y,N,4,246500.0,Pensioner,Secondary / secondary special,Widow,Office apartment,-19282,-14079,1,0,0,0,Cleaning staff,6
+100895,M,N,Y,1,496500.0,Commercial associate,Academic degree,Civil marriage,Office apartment,-12797,-14605,1,1,0,0,Security staff,2
+100896,M,Y,N,4,199000.0,Working,Incomplete higher,Married,Office apartment,-23989,-2742,1,0,1,0,Cooking staff,5
+100897,F,N,N,4,451000.0,State servant,Secondary / secondary special,Widow,House / apartment,-18086,-4034,1,1,0,0,Security staff,5
+100898,M,N,Y,3,295500.0,Student,Secondary / secondary special,Widow,House / apartment,-17503,-14940,1,1,0,1,Accountants,4
+100899,M,N,N,3,256500.0,State servant,Lower secondary,Single / not married,Municipal apartment,-7780,-8048,1,0,1,1,Cooking staff,5
+100900,F,N,Y,2,320000.0,Working,Higher education,Single / not married,Rented apartment,-24786,-2840,1,1,0,0,Laborers,4
+100901,M,N,Y,3,471500.0,State servant,Academic degree,Widow,With parents,-23670,-6075,1,0,0,0,Security staff,4
+100902,F,Y,Y,1,303500.0,Commercial associate,Academic degree,Widow,House / apartment,-8482,-6250,1,0,0,1,Laborers,2
+100903,M,N,Y,2,240000.0,State servant,Secondary / secondary special,Married,With parents,-15066,-10186,1,1,1,1,Sales staff,4
+100904,M,N,N,3,243000.0,Pensioner,Higher education,Separated,Rented apartment,-7341,-10265,1,1,0,1,Managers,4
+100905,M,Y,Y,0,455000.0,State servant,Secondary / secondary special,Married,Office apartment,-17727,-2742,1,1,1,1,IT staff,2
+100906,F,Y,Y,2,252000.0,Commercial associate,Secondary / secondary special,Widow,Municipal apartment,-13579,-2082,1,0,1,1,Core staff,3
+100907,M,N,Y,1,92500.0,Working,Higher education,Separated,Office apartment,-19153,-7177,1,0,1,0,Cleaning staff,2
+100908,F,Y,Y,1,128000.0,Pensioner,Incomplete higher,Married,Rented apartment,-22139,-3287,1,0,1,1,Managers,3
+100909,M,Y,Y,4,371000.0,Commercial associate,Incomplete higher,Separated,House / apartment,-21435,-1136,1,0,1,0,Managers,6
+100910,M,Y,N,0,315000.0,Student,Secondary / secondary special,Widow,With parents,-17540,-6068,1,0,0,0,Cleaning staff,1
+100911,F,Y,Y,0,466500.0,State servant,Academic degree,Single / not married,With parents,-8153,-9234,1,0,0,1,Cooking staff,2
+100912,F,N,Y,2,399500.0,State servant,Academic degree,Civil marriage,Rented apartment,-21908,-7850,1,0,1,1,Sales staff,3
+100913,M,N,N,2,132000.0,Pensioner,Secondary / secondary special,Separated,Rented apartment,-11718,-697,1,1,1,0,Medicine staff,3
+100914,M,N,N,2,263500.0,State servant,Lower secondary,Separated,Municipal apartment,-22188,-5956,1,1,1,1,Managers,3
+100915,M,Y,Y,1,497000.0,Student,Incomplete higher,Separated,Office apartment,-20376,-6140,1,1,0,1,Managers,3
+100916,F,N,N,0,76000.0,Commercial associate,Higher education,Civil marriage,Office apartment,-12135,-10807,1,1,1,0,Security staff,1
+100917,F,Y,N,1,431500.0,Student,Higher education,Separated,Office apartment,-13481,-2468,1,1,1,1,Sales staff,2
+100918,F,Y,Y,3,452500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-8728,-5431,1,0,1,1,Sales staff,4
+100919,F,Y,N,1,369000.0,Pensioner,Academic degree,Separated,Municipal apartment,-18095,-11527,1,0,1,1,Core staff,2
+100920,M,N,Y,1,322500.0,Student,Lower secondary,Married,Office apartment,-22386,-11466,1,1,0,0,Cleaning staff,2
+100921,M,Y,Y,3,245000.0,State servant,Lower secondary,Separated,With parents,-7653,-9603,1,1,1,0,Security staff,4
+100922,F,N,Y,3,239000.0,Working,Higher education,Married,Office apartment,-16833,-11098,1,1,0,0,Cleaning staff,4
+100923,F,Y,N,2,358500.0,State servant,Secondary / secondary special,Widow,Office apartment,-20688,-2769,1,1,1,0,IT staff,4
+100924,M,N,N,4,135000.0,Working,Higher education,Civil marriage,Rented apartment,-21710,-7093,1,1,0,1,Unspecified,6
+100925,F,Y,Y,0,496000.0,Student,Secondary / secondary special,Widow,House / apartment,-16919,-6236,1,0,1,1,Medicine staff,1
+100926,F,N,N,2,461000.0,Student,Lower secondary,Separated,Rented apartment,-11336,-5672,1,1,0,1,Drivers,4
+100927,F,Y,N,0,491000.0,Student,Secondary / secondary special,Single / not married,With parents,-10507,-3980,1,0,0,1,Core staff,1
+100928,M,Y,Y,4,54500.0,Working,Incomplete higher,Widow,House / apartment,-12119,-9547,1,1,1,0,Cooking staff,5
+100929,M,Y,Y,0,145000.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-14637,-3444,1,0,0,1,Accountants,1
+100930,M,N,Y,3,290000.0,Pensioner,Academic degree,Single / not married,Municipal apartment,-13059,-8316,1,0,0,0,Sales staff,5
+100931,M,Y,Y,1,146000.0,Commercial associate,Incomplete higher,Married,With parents,-19932,-10408,1,1,1,1,Sales staff,3
+100932,F,Y,Y,2,385000.0,Pensioner,Incomplete higher,Married,House / apartment,-9019,-1028,1,1,1,0,Cooking staff,4
+100933,F,Y,Y,0,213000.0,Student,Incomplete higher,Widow,House / apartment,-15599,-11913,1,1,1,1,Unspecified,2
+100934,F,N,N,2,210000.0,Student,Higher education,Married,Office apartment,-12588,-699,1,1,1,1,Security staff,4
+100935,F,N,N,3,128000.0,Commercial associate,Lower secondary,Separated,House / apartment,-11568,-12914,1,1,1,0,Medicine staff,5
+100936,F,Y,Y,0,353500.0,Commercial associate,Higher education,Single / not married,House / apartment,-19821,-7737,1,0,1,1,Sales staff,1
+100937,F,Y,N,3,474500.0,Student,Incomplete higher,Married,With parents,-22942,-9942,1,1,1,1,Managers,5
+100938,F,Y,Y,0,215500.0,State servant,Academic degree,Civil marriage,With parents,-14705,-8499,1,1,0,1,Security staff,1
+100939,M,N,N,2,400000.0,Student,Lower secondary,Widow,House / apartment,-11241,-8677,1,1,1,1,Unspecified,3
+100940,F,Y,Y,2,278500.0,Pensioner,Lower secondary,Married,With parents,-17688,-11276,1,0,1,1,Drivers,4
+100941,F,Y,Y,4,214500.0,Student,Higher education,Widow,Office apartment,-14766,-13325,1,0,1,1,Laborers,6
+100942,M,N,Y,4,369000.0,Pensioner,Secondary / secondary special,Widow,Municipal apartment,-22161,-9872,1,1,0,1,Medicine staff,5
+100943,M,N,Y,2,292500.0,Commercial associate,Higher education,Single / not married,Rented apartment,-18670,-13514,1,1,0,1,Accountants,4
+100944,M,Y,Y,2,201000.0,Working,Higher education,Widow,Office apartment,-16255,-4066,1,1,1,0,Drivers,4
+100945,M,N,Y,1,64500.0,State servant,Secondary / secondary special,Civil marriage,Municipal apartment,-11837,-7318,1,1,0,1,Accountants,2
+100946,F,N,Y,2,411500.0,Student,Lower secondary,Civil marriage,With parents,-11211,-5288,1,0,0,0,Accountants,4
+100947,M,N,N,2,331500.0,Working,Lower secondary,Civil marriage,Municipal apartment,-12832,-5351,1,0,1,1,Cooking staff,3
+100948,M,Y,N,4,82500.0,Working,Higher education,Married,House / apartment,-24130,-2676,1,0,0,1,Accountants,6
+100949,F,N,Y,0,302000.0,State servant,Academic degree,Single / not married,Office apartment,-20643,-10515,1,1,0,0,Sales staff,2
+100950,M,N,Y,1,172500.0,Working,Academic degree,Single / not married,House / apartment,-14389,-7842,1,0,0,0,Sales staff,2
+100951,F,N,N,1,437000.0,State servant,Secondary / secondary special,Widow,Rented apartment,-23129,-385,1,1,0,0,Sales staff,2
+100952,M,N,Y,1,228500.0,Working,Academic degree,Civil marriage,Office apartment,-12379,-6507,1,0,0,0,Cleaning staff,3
+100953,F,N,Y,2,477000.0,Commercial associate,Academic degree,Civil marriage,Rented apartment,-13415,-5358,1,1,1,0,Cleaning staff,4
+100954,M,N,N,3,154500.0,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-10497,-12170,1,0,0,1,Unspecified,4
+100955,F,N,N,4,77500.0,Commercial associate,Academic degree,Civil marriage,With parents,-23747,-390,1,1,0,0,Managers,6
+100956,F,N,N,1,284000.0,State servant,Academic degree,Married,Municipal apartment,-22734,-9188,1,1,0,0,Cooking staff,2
+100957,M,Y,Y,0,190000.0,Working,Incomplete higher,Separated,Municipal apartment,-12226,-1593,1,0,1,0,Cleaning staff,1
+100958,F,Y,N,3,263500.0,Working,Incomplete higher,Single / not married,House / apartment,-16897,-2323,1,1,1,0,Core staff,4
+100959,M,Y,Y,3,94000.0,Commercial associate,Lower secondary,Widow,Office apartment,-15950,-4424,1,0,1,0,Unspecified,4
+100960,M,N,N,1,65000.0,Working,Lower secondary,Separated,Municipal apartment,-20514,-2867,1,0,0,0,Drivers,3
+100961,M,N,Y,3,393500.0,Pensioner,Higher education,Married,Municipal apartment,-7063,-10652,1,0,1,1,Sales staff,4
+100962,F,Y,N,2,283500.0,State servant,Academic degree,Married,Rented apartment,-19165,-11898,1,0,1,1,Medicine staff,3
+100963,F,N,N,4,227500.0,Pensioner,Higher education,Separated,Office apartment,-20363,-5903,1,1,0,1,Managers,6
+100964,F,N,Y,2,71500.0,Pensioner,Academic degree,Married,Office apartment,-18195,-8850,1,0,0,0,Unspecified,4
+100965,F,Y,Y,0,316000.0,Working,Academic degree,Single / not married,Rented apartment,-12396,-12119,1,0,1,1,Core staff,2
+100966,F,N,Y,2,345000.0,Pensioner,Lower secondary,Single / not married,With parents,-21865,-2551,1,0,0,0,Security staff,3
+100967,F,Y,N,0,205000.0,Commercial associate,Academic degree,Single / not married,With parents,-7770,-265,1,0,1,0,Sales staff,1
+100968,M,N,N,0,110500.0,State servant,Incomplete higher,Separated,House / apartment,-16837,-5622,1,1,1,0,Drivers,2
+100969,F,Y,N,4,66000.0,State servant,Incomplete higher,Civil marriage,House / apartment,-15381,-11479,1,1,1,0,Medicine staff,6
+100970,M,N,Y,3,299500.0,Working,Lower secondary,Civil marriage,Office apartment,-10016,-1359,1,0,0,1,Medicine staff,5
+100971,F,Y,N,1,208500.0,Student,Lower secondary,Married,Office apartment,-20454,-1555,1,0,0,0,IT staff,3
+100972,M,N,N,0,406500.0,Student,Lower secondary,Widow,House / apartment,-15296,-9595,1,0,1,0,Security staff,2
+100973,M,N,N,1,268000.0,Working,Higher education,Single / not married,With parents,-22798,-7966,1,0,0,1,Unspecified,2
+100974,M,N,Y,3,164000.0,Pensioner,Academic degree,Separated,With parents,-21570,-13245,1,0,0,0,Managers,4
+100975,M,N,N,4,237500.0,State servant,Secondary / secondary special,Widow,Rented apartment,-24808,-1742,1,1,1,0,Drivers,6
+100976,F,Y,Y,4,94500.0,Pensioner,Incomplete higher,Separated,Municipal apartment,-23617,-3985,1,0,0,0,Managers,5
+100977,M,Y,N,4,387500.0,Student,Incomplete higher,Widow,Rented apartment,-22659,-1094,1,0,1,0,IT staff,5
+100978,M,Y,N,1,118000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,-23718,-12912,1,0,0,1,Cooking staff,2
+100979,M,N,Y,2,490500.0,State servant,Higher education,Married,Municipal apartment,-22672,-7843,1,0,0,0,Medicine staff,3
+100980,M,Y,Y,1,294500.0,Student,Secondary / secondary special,Widow,With parents,-15095,-10271,1,1,1,0,Drivers,3
+100981,F,Y,N,0,449500.0,State servant,Secondary / secondary special,Married,Rented apartment,-19804,-7369,1,0,0,1,Cooking staff,2
+100982,M,N,N,1,445500.0,Working,Lower secondary,Widow,House / apartment,-20674,-1086,1,0,0,0,Accountants,3
+100983,F,N,N,3,205000.0,Student,Academic degree,Civil marriage,Rented apartment,-22398,-8379,1,1,1,0,Security staff,5
+100984,F,N,Y,0,178500.0,Pensioner,Incomplete higher,Civil marriage,Office apartment,-23826,-3732,1,1,1,0,Cooking staff,1
+100985,F,Y,N,2,315000.0,State servant,Incomplete higher,Civil marriage,Office apartment,-20888,-10972,1,0,0,1,Sales staff,4
+100986,F,Y,N,4,347500.0,Student,Higher education,Single / not married,Rented apartment,-15094,-3370,1,1,0,1,Accountants,5
+100987,F,N,N,3,325000.0,Pensioner,Higher education,Civil marriage,Office apartment,-9360,-4137,1,0,1,1,Laborers,4
+100988,F,N,N,1,331500.0,Student,Incomplete higher,Widow,Office apartment,-20778,-3263,1,1,0,1,Cleaning staff,3
+100989,M,N,N,4,248000.0,Pensioner,Secondary / secondary special,Married,With parents,-11027,-5920,1,0,0,0,Drivers,5
+100990,F,Y,Y,4,430000.0,State servant,Higher education,Single / not married,Office apartment,-8962,-161,1,0,1,1,Drivers,6
+100991,M,Y,N,1,332500.0,Pensioner,Higher education,Married,House / apartment,-17378,-12490,1,0,0,1,Sales staff,2
+100992,M,N,N,1,113500.0,Working,Higher education,Separated,With parents,-14930,-7528,1,0,0,0,Drivers,2
+100993,M,N,N,0,346500.0,Student,Lower secondary,Separated,With parents,-14608,-1644,1,0,1,1,Security staff,1
+100994,F,Y,N,3,155000.0,State servant,Lower secondary,Widow,Rented apartment,-17553,-339,1,1,1,1,Cooking staff,4
+100995,M,Y,N,2,136000.0,State servant,Higher education,Married,Rented apartment,-18575,-6637,1,1,0,1,Sales staff,4
+100996,F,Y,Y,4,380000.0,Working,Lower secondary,Single / not married,Municipal apartment,-18310,-5890,1,1,0,1,Medicine staff,6
+100997,M,N,N,3,228000.0,Commercial associate,Incomplete higher,Civil marriage,Rented apartment,-22680,-2590,1,0,0,0,Laborers,5
+100998,M,Y,Y,2,412000.0,Commercial associate,Secondary / secondary special,Widow,Office apartment,-8640,-4102,1,0,1,1,Managers,4
+100999,F,N,Y,1,167000.0,State servant,Incomplete higher,Married,Office apartment,-9188,-3798,1,0,0,0,Drivers,3

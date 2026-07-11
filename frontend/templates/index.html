@@ -1,0 +1,134 @@
+{% extends 'base.html' %}
+
+{% block title %}CredAI - Credit Card Approval Prediction System{% endblock %}
+
+{% block content %}
+<div class="container">
+    <section class="hero-section grid">
+        <div class="hero-content">
+            <h1 class="hero-title">Predict Credit Card Approvals in Real-Time</h1>
+            <p class="hero-subtitle">
+                Utilize advanced, state-of-the-art machine learning algorithms to analyze applicant demographics and financial structures. Receive instant, secure, and compliant approval predictions.
+            </p>
+            <div class="hero-actions">
+                <a href="/predict" class="btn btn-primary">
+                    <i class="fa-solid fa-wand-magic-sparkles"></i> Predict Now
+                </a>
+                <a href="/dashboard" class="btn btn-secondary">
+                    <i class="fa-solid fa-chart-line"></i> View Analytics
+                </a>
+            </div>
+        </div>
+        
+        <div class="hero-image-wrapper">
+            <div class="hero-card-art">
+                <div class="card-logo">
+                    <span>CredAI</span>
+                    <i class="fa-solid fa-wifi"></i>
+                </div>
+                <div class="card-chip"></div>
+                <div class="card-number">•••• •••• •••• 4026</div>
+            </div>
+        </div>
+    </section>
+
+    <section style="margin-top: 40px;">
+        <h2 class="section-title">System Features</h2>
+        <p class="section-subtitle">A professional dashboard designed with cutting edge technology for modern credit evaluation.</p>
+        
+        <div class="features-grid grid">
+            <div class="card glass-card">
+                <div class="feature-icon-box flex-center">
+                    <i class="fa-solid fa-brain"></i>
+                </div>
+                <h3 class="feature-title">AI-Based Prediction</h3>
+                <p class="feature-desc">Leverages an optimized champion decision tree classifier trained on historical credit repayment logs to accurately assess credit risk.</p>
+            </div>
+            
+            <div class="card glass-card">
+                <div class="feature-icon-box flex-center">
+                    <i class="fa-solid fa-shield-halved"></i>
+                </div>
+                <h3 class="feature-title">Secure Processing</h3>
+                <p class="feature-desc">All applicant data is parsed securely in-memory, verified through data types validation engines, and processed in a sandbox.</p>
+            </div>
+            
+            <div class="card glass-card">
+                <div class="feature-icon-box flex-center">
+                    <i class="fa-solid fa-bolt"></i>
+                </div>
+                <h3 class="feature-title">Instant Results</h3>
+                <p class="feature-desc">Sub-millisecond inference speeds ensure that decisions are generated and rendered on screen instantly without any delay.</p>
+            </div>
+            
+            <div class="card glass-card">
+                <div class="feature-icon-box flex-center">
+                    <i class="fa-solid fa-clock-rotate-left"></i>
+                </div>
+                <h3 class="feature-title">Prediction History</h3>
+                <p class="feature-desc">Automatically logs predictions, probability percentages, confidence ratings, and inputs history into SQLite database tables.</p>
+            </div>
+            
+            <div class="card glass-card">
+                <div class="feature-icon-box flex-center">
+                    <i class="fa-solid fa-chart-pie"></i>
+                </div>
+                <h3 class="feature-title">Interactive Dashboard</h3>
+                <p class="feature-desc">Visually track demographic distributions, model logs, and statistics summaries using charts and indicators.</p>
+            </div>
+            
+            <div class="card glass-card">
+                <div class="feature-icon-box flex-center">
+                    <i class="fa-solid fa-list-check"></i>
+                </div>
+                <h3 class="feature-title">Explainable AI</h3>
+                <p class="feature-desc">Returns human-readable explanation logs and actionable suggestions showing candidates how to improve their metrics profile.</p>
+            </div>
+        </div>
+    </section>
+</div>
+
+<div class="container">
+    <section class="why-section grid">
+        <div>
+            <h2 class="section-title" style="text-align: left; margin-bottom: 20px;">Why Choose This System?</h2>
+            <p class="text-muted" style="margin-bottom: 30px;">
+                Designed specifically for banking executives, credit auditors, and software engineers, our system bridge the gap between complex data science models and compliant business decisions.
+            </p>
+            <a href="/predict" class="btn btn-primary">Get Started Now</a>
+        </div>
+        
+        <div class="benefit-list">
+            <div class="benefit-item">
+                <div class="benefit-check flex-center">
+                    <i class="fa-solid fa-check"></i>
+                </div>
+                <div>
+                    <h4 class="benefit-title">Regulatory Compliance</h4>
+                    <p class="benefit-desc">Explainable AI logic outputs clear, non-blackbox reasons for decisions, aligning with fair lending audit regulations.</p>
+                </div>
+            </div>
+            
+            <div class="benefit-item">
+                <div class="benefit-check flex-center">
+                    <i class="fa-solid fa-check"></i>
+                </div>
+                <div>
+                    <h4 class="benefit-title">Zero Cold Start Lag</h4>
+                    <p class="benefit-desc">Pre-loading model binaries into local Flask context memory removes startup overheads, making processing instantaneous.</p>
+                </div>
+            </div>
+            
+            <div class="benefit-item">
+                <div class="benefit-check flex-center">
+                    <i class="fa-solid fa-check"></i>
+                </div>
+                <div>
+                    <h4 class="benefit-title">Unified Database Logging</h4>
+                    <p class="benefit-desc">Auto-logging all raw customer details enables banks to retrain models offline to prevent drift.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+{% endblock %}
