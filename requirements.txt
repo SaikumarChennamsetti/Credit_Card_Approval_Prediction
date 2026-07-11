@@ -1,0 +1,14 @@
+Flask
+Flask-SQLAlchemy
+Flask-Cors
+pandas
+numpy
+scikit-learn
+lightgbm
+xgboost
+joblib
+python-dotenv
+pytest
+matplotlib
+seaborn
+gunicorn
